@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our website is online now!
+实验室网站成立
