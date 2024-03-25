@@ -311,8 +311,7 @@ enable_publication_badges:
   google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
-filtered_bibtex_keywords:
-  [citation, link1_url, link1_name, link2_url, link2_name, link3_url, link3_name, link4_url, link4_name, link5_url, link5_name, note, abbr, abstract, altmetric, arxiv, bibtex_show, blog, code, html, pdf, poster, preview, selected, slides, supp, video, website]
+filtered_bibtex_keywords: [citation, link1_url, link1_name, link2_url, link2_name, link3_url, link3_name, link4_url, link4_name, link5_url, link5_name, note, abbr, abstract, altmetric, arxiv, bibtex_show, blog, code, html, pdf, poster, preview, selected, slides, supp, video, website]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
 max_author_limit: 7 # leave blank to always show all authors
