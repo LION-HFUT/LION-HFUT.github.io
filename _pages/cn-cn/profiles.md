@@ -126,6 +126,7 @@ profiles:
   }
   .profile {
     text-align: center;
+    width: 150px;
   }
   .profile img {
     max-width: 100%;
