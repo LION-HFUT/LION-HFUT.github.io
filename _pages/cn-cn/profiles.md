@@ -2,7 +2,7 @@
 page_id: profiles
 layout: profiles
 permalink: /people/
-title: 团队
+title: 成员
 description: members of the lab or group
 nav: true
 nav_order: 2
