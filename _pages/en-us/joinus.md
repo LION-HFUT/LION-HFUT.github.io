@@ -1,6 +1,6 @@
 ---
 page_id: joinus
-layout: page
+layout: page1
 permalink: /joinus/
 title: Join Us
 description: 
