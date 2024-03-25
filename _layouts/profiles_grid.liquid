@@ -2,6 +2,9 @@
 layout: page
 ---
 <style>
+  .category-section {
+    margin-bottom: 40px;
+  }
   .profile-grid {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
@@ -22,25 +25,30 @@ layout: page
 
 <div class="post">
   <article>
-    {% assign categories = ['博士', '硕士'] %}
-    {% for category in categories %}
-      <h2>{{ category }}</h2>
-      <div class="profile-grid">
-        {% for profile in page.profiles %}
-          {% if profile.category == category %}
-            <div class="profile">
-              {% if profile.image %}
-                <img src="assets/img/{{ profile.image }}" alt="{{ profile.name }}">
+    {% if page.profiles %}
+      I am here!
+      {% assign categories = ['博士', '硕士'] %}
+      {% for category in categories %}
+        <div class="category-section">
+          <h2>{{ category }}</h2>
+          <div class="profile-grid">
+            {% for profile in page.profiles %}
+              {% if profile.category == category %}
+                <div class="profile">
+                  {% if profile.image %}
+                    <img src="assets/img/{{ profile.image }}" alt="{{ profile.name }}">
+                  {% endif %}
+                  <div class="profile-info">
+                    <div>{{ profile.position }}</div>
+                    <div>{{ profile.research }}</div>
+                    <div>{{ profile.join_date }}</div>
+                  </div>
+                </div>
               {% endif %}
-              <div class="profile-info">
-                <div>{{ profile.position }}</div>
-                <div>{{ profile.research }}</div>
-                <div>{{ profile.join_date }}</div>
-              </div>
-            </div>
-          {% endif %}
-        {% endfor %}
-      </div>
-    {% endfor %}
+            {% endfor %}
+          </div>
+        </div>
+      {% endfor %}
+    {% endif %}
   </article>
 </div>
