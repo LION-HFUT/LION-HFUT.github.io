@@ -16,63 +16,63 @@ profiles:
     position: 教授
     name: 李小龙
   - category: 教师
-    image: prof_pic.jpg
+    image: 1.jpg
     position: 教授
     name: 李小龙2
   - category: 教师
-    image: prof_pic.jpg
+    image: 2.jpg
     position: 教授
     name: 李小龙3
   - category: 教师
-    image: prof_pic.jpg
+    image: 3.jpg
     position: 教授
     name: 李小龙4
   - category: 教师
-    image: prof_pic.jpg
+    image: 4.jpg
     position: 教授
     name: 李小龙5
   - category: 教师
-    image: prof_pic.jpg
+    image: 5.jpg
     position: 教授
     name: 李小龙6
   - category: 博后
-    image: prof_pic.jpg
+    image: 6.jpg
     name: 关羽1
     position: Postdoc
     research: CV
     join_date: 2024
   - category: 博士
-    image: prof_pic.jpg
+    image: 7.jpg
     name: 赵子龙1
     position: PHD
     research: CV
     join_date: 2024
   - category: 博士
-    image: prof_pic.jpg
+    image: 8.jpg
     name: 赵子龙2
     position: PHD
     research: CV
     join_date: 2024
   - category: 博士
-    image: prof_pic.jpg
+    image: 9.jpg
     name: 赵子龙3
     position: PHD
     research: CV
     join_date: 2024
   - category: 博士
-    image: prof_pic.jpg
+    image: 10.jpg
     name: 赵子龙4
     position: PHD
     research: CV
     join_date: 2024
   - category: 博士
-    image: prof_pic.jpg
+    image: 11.jpg
     name: 赵子龙5
     position: PHD
     research: CV
     join_date: 2024
   - category: 博士
-    image: prof_pic.jpg
+    image: 12.jpg
     name: 赵子龙6
     position: PHD
     research: CV
@@ -126,7 +126,7 @@ profiles:
   }
   .profile {
     text-align: center;
-    width: 150px;
+    width: 190px;
   }
   .profile img {
     max-width: 100%;
