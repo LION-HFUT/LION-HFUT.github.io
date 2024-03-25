@@ -23,10 +23,12 @@ LION长期积极招募对原创科研有高度热情，有一定科研训练，�
 * **Note 2:** 如果您对科研并无兴趣，只是想做工程或混个学位毕业，请勿联系。LION 课题组希望打造并维护一个对科研具有高度热情的氛围，并希望 每一位同学都能在日常交流中收益。
 * **Note 3:** 实验室老师具有丰富的科研指导经验，已指导学生已在多个顶级会议和期刊上发表学术论文。部分指导学生成果：
 
-1. Fengxiang Yang (一作发表 1 TPAMI, 1 CVPR, 3 AAAI, 1 TMM)
-2. Mingxuan Liu (一作发表 1 ECCV, 1 ICLR)
-3. Dong Zhao (一作发表 1 CVPR)
-4. Yuyang Zhao (一作发表 2CVPR, 1 ECCV, 1 IJCV, 1 NeurIPS)
+    - Fengxiang Yang (一作发表 1 TPAMI, 1 CVPR, 3 AAAI, 1 TMM)
+    - Mingxuan Liu (一作发表 1 ECCV, 1 ICLR)
+    - Dong Zhao (一作发表 1 CVPR)
+    - Yuyang Zhao (一作发表 2CVPR, 1 ECCV, 1 IJCV, 1 NeurIPS)
+    - Enrico Fini (一作发表 1 ICCV Oral)
+    - Wei Wang (一作发表 1 CVPR)
 
 ## 我们能为你提供什么?
 
