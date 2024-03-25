@@ -1,9 +1,6 @@
 ---
 layout: page
 ---
-
-I am here!
-
 <style>
   .category-section {
     margin-bottom: 40px;
@@ -26,15 +23,16 @@ I am here!
   }
 </style>
 
-I am here!
 
 <div class="post">
   <article>
     {% if page.profiles %}
-      I am here!
+      I am here1!
       {% assign categories = ['博士', '硕士'] %}
       {% for category in categories %}
+        I am here2!
         <div class="category-section">
+          I am here3!
           <h2>{{ category }}</h2>
           <div class="profile-grid">
             {% for profile in page.profiles %}
