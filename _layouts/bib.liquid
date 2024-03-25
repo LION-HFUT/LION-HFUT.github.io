@@ -195,6 +195,21 @@
       {% if entry.code %}
         <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
       {% endif %}
+      {%- if entry.link1_url %}
+        <a href="{{ entry.link1_url}}" class="btn btn-sm z-depth-0" role="button">{{ entry.link1_name }}</a>
+      {%- endif %}
+      {%- if entry.link2_url %}
+        <a href="{{ entry.link2_url}}" class="btn btn-sm z-depth-0" role="button">{{ entry.link2_name }}</a>
+      {%- endif %}
+      {%- if entry.link3_url %}
+        <a href="{{ entry.link3_url}}" class="btn btn-sm z-depth-0" role="button">{{ entry.link3_name }}</a>
+      {%- endif %}
+      {%- if entry.link4_url %}
+        <a href="{{ entry.link4_url}}" class="btn btn-sm z-depth-0" role="button">{{ entry.link4_name }}</a>
+      {%- endif %}
+      {%- if entry.link5_url %}
+        <a href="{{ entry.link5_url}}" class="btn btn-sm z-depth-0" role="button">{{ entry.link5_name }}</a>
+      {%- endif %}
       {% if entry.poster %}
         {% if entry.poster contains '://' %}
           <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
@@ -285,6 +300,13 @@
         {{- entry.bibtex | hideCustomBibtex -}}
         {% endhighlight %}
       </div>
+    {% endif %}
+
+    {% if entry.note %}
+      <div style="color: #FFC000;"><p class="periodical font-italic"><i class="fa fa-solid fa-star"></i> {{entry.note}}!</p></div>
+    {% endif %}
+    {% if entry.citation %}
+      <div style="color: #FFC000;"><p class="periodical font-italic"><i class="fa fa-solid fa-star"></i> {{entry.citation}}!</p></div>
     {% endif %}
 
     {% if entry.video %}
