@@ -4,7 +4,7 @@ layout: page
 permalink: /people/
 title: 成员
 description: 实验室成员
-categories: [教师, 博后, 博士, 硕士]
+categories: [教师, 博后, 博士, 硕士, 国内外合作伙伴]
 nav: true
 nav_order: 2
 
@@ -113,6 +113,30 @@ profiles:
     position: Master
     research: CV
     join_date: 2024
+  - category: 国内外合作伙伴
+    image: prof_pic.jpg
+    name: 诸葛亮1
+    position: University of Trento
+  - category: 国内外合作伙伴
+    image: prof_pic.jpg
+    name: 诸葛亮2
+    position: University of Trento
+  - category: 国内外合作伙伴
+    image: prof_pic.jpg
+    name: 诸葛亮3
+    position: University of Trento
+  - category: 国内外合作伙伴
+    image: prof_pic.jpg
+    name: 诸葛亮4
+    position: University of Trento
+  - category: 国内外合作伙伴
+    image: prof_pic.jpg
+    name: 诸葛亮5
+    position: University of Trento
+  - category: 国内外合作伙伴
+    image: prof_pic.jpg
+    name: 诸葛亮6
+    position: University of Trento
 ---
 
 <style>
