@@ -1,5 +1,6 @@
 ---
 layout: page
+categories: ['phd', 'master']
 ---
 <style>
   .category-section {
@@ -28,8 +29,7 @@ layout: page
   <article>
     {% if page.profiles %}
       I am here1!
-      {% assign categories = ['博士', '硕士'] %}
-      {% for category in categories %}
+      {% for category in page.categories %}
         I am here2!
         <div class="category-section">
           I am here3!
