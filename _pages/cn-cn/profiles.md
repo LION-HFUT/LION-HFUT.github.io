@@ -4,7 +4,7 @@ layout: page
 permalink: /people/
 title: 成员
 description: 实验室成员
-categories: [work, fun]
+categories: [博士, 硕士]
 nav: true
 nav_order: 2
 
@@ -104,11 +104,8 @@ profiles:
 <div class="post">
   <article>
     {% if page.profiles %}
-      I am here1!
       {% for category in page.categories %}
-        I am here2!
         <div class="category-section">
-          I am here3!
           <h2>{{ category }}</h2>
           <div class="profile-grid">
             {% for profile in page.profiles %}
