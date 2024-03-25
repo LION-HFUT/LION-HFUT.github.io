@@ -11,7 +11,7 @@ nav_order: 3
 
 \* Equal Contribution 
 
-† Corresponding Author
+† Corresponding Authors
 
 <!-- _pages/publications.md -->
 <div class="publications">
