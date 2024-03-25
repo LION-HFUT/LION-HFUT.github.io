@@ -112,8 +112,8 @@ profiles:
               {% if profile.category == category %}
                 <div class="profile">
                   {% if profile.image %}
-                    profile.image
-                    <img src="assets/img/{{ profile.image }}" alt="{{ profile.name }}">
+                    {{profile.image}}
+                    <img src="/assets/img/{{ profile.image }}" alt="{{ profile.name }}">
                   {% endif %}
                   <div class="profile-info">
                     <div>{{ profile.position }}</div>
