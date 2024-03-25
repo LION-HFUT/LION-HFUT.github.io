@@ -156,10 +156,13 @@ profiles:
                     <div>{{ profile.name }}</div>
                     {% if profile.position %}
                         <div>{{ profile.position }}</div>
+                    {% endif %}
                     {% if profile.research %}
                         <div>{{ profile.research }}</div>
+                    {% endif %}
                     {% if profile.join_date %}
                         <div>{{ profile.join_date}}</div>
+                    {% endif %}
                   </div>
                 </div>
               {% endif %}
