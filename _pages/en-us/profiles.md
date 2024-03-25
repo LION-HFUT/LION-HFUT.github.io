@@ -1,29 +1,200 @@
 ---
 page_id: profiles
-layout: profiles
+layout: page
 permalink: /people/
 title: People
-description: members of the lab or group
+description: 实验室包括教授5人、博后1人、博士5人以及硕士10人，并与国内外知名学者长期合作。
+categories: [教师, 博后, 博士, 硕士, 国内外合作伙伴]
 nav: true
 nav_order: 2
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - align: right
+  - category: 教师
     image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
+    position: 教授
+    name: 李小龙
+  - category: 教师
+    image: 1.jpg
+    position: 教授
+    name: 李小龙2
+  - category: 教师
+    image: 2.jpg
+    position: 教授
+    name: 李小龙3
+  - category: 教师
+    image: 3.jpg
+    position: 教授
+    name: 李小龙4
+  - category: 教师
+    image: 4.jpg
+    position: 教授
+    name: 李小龙5
+  - category: 教师
+    image: 5.jpg
+    position: 教授
+    name: 李小龙6
+  - category: 博后
+    image: 6.jpg
+    name: 关羽1
+    position: Postdoc
+    research: CV
+    join_date: 2024
+  - category: 博士
+    image: 7.jpg
+    name: 赵子龙1
+    position: PHD
+    research: CV
+    join_date: 2024
+  - category: 博士
+    image: 8.jpg
+    name: 赵子龙2
+    position: PHD
+    research: CV
+    join_date: 2024
+  - category: 博士
+    image: 9.jpg
+    name: 赵子龙3
+    position: PHD
+    research: CV
+    join_date: 2024
+  - category: 博士
+    image: 10.jpg
+    name: 赵子龙4
+    position: PHD
+    research: CV
+    join_date: 2024
+  - category: 博士
+    image: 11.jpg
+    name: 赵子龙5
+    position: PHD
+    research: CV
+    join_date: 2024
+  - category: 博士
+    image: 12.jpg
+    name: 赵子龙6
+    position: PHD
+    research: CV
+    join_date: 2024
+  - category: 硕士
     image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+    name: 张飞1
+    position: Master
+    research: CV
+    join_date: 2024
+  - category: 硕士
+    image: prof_pic.jpg
+    name: 张飞2
+    position: Master
+    research: CV
+    join_date: 2024
+  - category: 硕士
+    image: prof_pic.jpg
+    name: 张飞3
+    position: Master
+    research: CV
+    join_date: 2024
+  - category: 硕士
+    image: prof_pic.jpg
+    name: 张飞4
+    position: Master
+    research: CV
+    join_date: 2024
+  - category: 硕士
+    image: prof_pic.jpg
+    name: 张飞5
+    position: Master
+    research: CV
+    join_date: 2024
+  - category: 硕士
+    image: prof_pic.jpg
+    name: 张飞6
+    position: Master
+    research: CV
+    join_date: 2024
+  - category: 国内外合作伙伴
+    image: prof_pic.jpg
+    name: 诸葛亮1
+    position: University of Trento
+  - category: 国内外合作伙伴
+    image: prof_pic.jpg
+    name: 诸葛亮2
+    position: University of Trento
+  - category: 国内外合作伙伴
+    image: prof_pic.jpg
+    name: 诸葛亮3
+    position: University of Trento
+  - category: 国内外合作伙伴
+    image: prof_pic.jpg
+    name: 诸葛亮4
+    position: University of Trento
+  - category: 国内外合作伙伴
+    image: prof_pic.jpg
+    name: 诸葛亮5
+    position: University of Trento
+  - category: 国内外合作伙伴
+    image: prof_pic.jpg
+    name: 诸葛亮6
+    position: University of Trento
 ---
+
+<style>
+  .category-section {
+    margin-bottom: 60px;
+  }
+  .profile-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+  }
+  .profile {
+    text-align: center;
+    width: 190px;
+  }
+  .profile img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10%;
+  }
+  .profile-info {
+    margin-top: 8px;
+  }
+</style>
+
+
+<div class="post">
+  <article>
+    {% if page.profiles %}
+      {% for category in page.categories %}
+        <div class="category-section">
+          <h2>{{ category }}</h2>
+          <hr />
+          <div class="profile-grid">
+            {% for profile in page.profiles %}
+              {% if profile.category == category %}
+                <div class="profile">
+                  {% if profile.image %}
+                    <img src="/assets/img/{{ profile.image }}" alt="{{ profile.name }}">
+                  {% endif %}
+                  <div class="profile-info">
+                    <div>{{ profile.name }}</div>
+                    {% if profile.position %}
+                        <div>{{ profile.position }}</div>
+                    {% endif %}
+                    {% if profile.research %}
+                        <div>{{ profile.research }}</div>
+                    {% endif %}
+                    {% if profile.join_date %}
+                        <div>{{ profile.join_date}}</div>
+                    {% endif %}
+                  </div>
+                </div>
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+      {% endfor %}
+    {% endif %}
+  </article>
+</div>
