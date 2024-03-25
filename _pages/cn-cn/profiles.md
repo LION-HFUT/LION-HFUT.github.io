@@ -1,9 +1,10 @@
 ---
 page_id: profiles
-layout: profiles_grid
+layout: page
 permalink: /people/
 title: 成员
-description: members of the lab or group
+description: 实验室成员
+categories: [work, fun]
 nav: true
 nav_order: 2
 
@@ -76,3 +77,57 @@ profiles:
     research: ML
     join_date: 2024
 ---
+
+<style>
+  .category-section {
+    margin-bottom: 40px;
+  }
+  .profile-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+  }
+  .profile {
+    text-align: center;
+  }
+  .profile img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+  }
+  .profile-info {
+    margin-top: 8px;
+  }
+</style>
+
+
+<div class="post">
+  <article>
+    {% if page.profiles %}
+      I am here1!
+      {% for category in page.categories %}
+        I am here2!
+        <div class="category-section">
+          I am here3!
+          <h2>{{ category }}</h2>
+          <div class="profile-grid">
+            {% for profile in page.profiles %}
+              {% if profile.category == category %}
+                <div class="profile">
+                  {% if profile.image %}
+                    <img src="assets/img/{{ profile.image }}" alt="{{ profile.name }}">
+                  {% endif %}
+                  <div class="profile-info">
+                    <div>{{ profile.position }}</div>
+                    <div>{{ profile.research }}</div>
+                    <div>{{ profile.join_date }}</div>
+                  </div>
+                </div>
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+      {% endfor %}
+    {% endif %}
+  </article>
+</div>
