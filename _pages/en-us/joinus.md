@@ -4,7 +4,7 @@ layout: page
 permalink: /joinus/
 title: Join Us
 description: 
-nav: false
+nav: true
 nav_order: 4
 ---
 
