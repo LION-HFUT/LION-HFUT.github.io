@@ -117,12 +117,12 @@ profiles:
 
 <style>
   .category-section {
-    margin-bottom: 40px;
+    margin-bottom: 60px;
   }
   .profile-grid {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
-    gap: 15px;
+    gap: 10px;
   }
   .profile {
     text-align: center;
