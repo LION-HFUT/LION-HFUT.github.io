@@ -1,6 +1,6 @@
 ---
 page_id: profiles
-layout: profiles
+layout: profiles_grid
 permalink: /people/
 title: 成员
 description: members of the lab or group
@@ -10,20 +10,69 @@ nav_order: 2
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - align: right
+  - category: 博士
     image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
+    position: PHD
+    research: CV
+    join_date: 2024
+  - category: 博士
     image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+    position: PHD
+    research: CV
+    join_date: 2024
+  - category: 博士
+    image: prof_pic.jpg
+    position: PHD
+    research: CV
+    join_date: 2024
+  - category: 博士
+    image: prof_pic.jpg
+    position: PHD
+    research: CV
+    join_date: 2024
+  - category: 博士
+    image: prof_pic.jpg
+    position: PHD
+    research: CV
+    join_date: 2024
+  - category: 博士
+    image: prof_pic.jpg
+    position: PHD
+    research: CV
+    join_date: 2024
+  - category: 硕士
+    image: prof_pic.jpg
+    position: Master
+    research: ML
+    join_date: 2024
+  - category: 硕士
+    image: prof_pic.jpg
+    position: Master
+    research: ML
+    join_date: 2024
+  - category: 硕士
+    image: prof_pic.jpg
+    position: Master
+    research: ML
+    join_date: 2024
+  - category: 硕士
+    image: prof_pic.jpg
+    position: Master
+    research: ML
+    join_date: 2024
+  - category: 硕士
+    image: prof_pic.jpg
+    position: Master
+    research: ML
+    join_date: 2024
+  - category: 硕士
+    image: prof_pic.jpg
+    position: Master
+    research: ML
+    join_date: 2024
+  - category: 硕士
+    image: prof_pic.jpg
+    position: Master
+    research: ML
+    join_date: 2024
 ---
