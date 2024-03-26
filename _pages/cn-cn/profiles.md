@@ -48,17 +48,17 @@ profiles:
     research: Open-Set
     join_date: 2022
   - category: 博士
-    image: yan.png
-    name: 张研
-    position: 硕博连读
-    research: Video Recognition
-    join_date: 2023级
-  - category: 博士
     image: pic_boy.png
     name: 沈磊
     position: 联合培养
     research: Federated Learning
     join_date: 2022
+  - category: 博士
+    image: yan.png
+    name: 张研
+    position: 硕博连读
+    research: Video Recognition
+    join_date: 2023级
   - category: 硕士
     image: chentaocao.jpg
     name: 曹晨涛
