@@ -17,7 +17,7 @@ profiles:
     name: 钟准
     website: zhunzhong.site
   - category: 教师
-    image: 1.jpg
+    image: prof_pic.jpg
     position: 教授
     name: 关羽
     website: zhunzhong.site
@@ -30,7 +30,7 @@ profiles:
     name: 李文静
     research: Computer Vision
   - category: 博士
-    image: dong.png
+    image: dong.jpg
     name: 赵栋
     position: 联合培养
     research: Segmentation
@@ -82,7 +82,7 @@ profiles:
     name: Nicu Sebe
     position: 特伦托大学
   - category: 国内外合作伙伴
-    image: prof_girl.jpg
+    image: prof_pic.jpg
     name: Elisa Ricci
     position: 特伦托大学
   - category: 国内外合作伙伴
