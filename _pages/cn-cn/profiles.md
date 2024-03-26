@@ -15,12 +15,12 @@ profiles:
     image: zhun.png
     position: 教授
     name: 钟准
-    website: zhunzhong.site
+    website: https://zhunzhong.site
   - category: 教师
     image: prof_pic.jpg
     position: 教授
     name: 关羽
-    website: zhunzhong.site
+    website: https://zhunzhong.site
   - category: 博后
     image: nan.png
     name: 普楠
