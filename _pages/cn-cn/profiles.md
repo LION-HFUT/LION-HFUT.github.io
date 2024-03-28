@@ -18,13 +18,13 @@ profiles:
     name: 钟准
     website: https://zhunzhong.site
   - category: 教师
-    image: lechao.jpg
+    image: lechao.png
     position: 副教授
     research: 黄山学者学术骨干
     name: 程乐超
     website: https://liygcheng.github.io/home/
   - category: 教师
-    image: yaxiong.png
+    image: yaxiong.jpg
     position: 副教授
     research: 黄山学者学术骨干
     name: 王亚雄
