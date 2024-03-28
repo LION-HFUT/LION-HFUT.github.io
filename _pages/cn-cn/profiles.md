@@ -14,17 +14,17 @@ profiles:
   - category: 教师
     image: zhun.png
     position: 教授
-    research: 国家四青
+    research: 国家级青年人才
     name: 钟准
     website: https://zhunzhong.site
   - category: 教师
-    image: prof_pic.jpg
+    image: lechao.jpg
     position: 副教授
     research: 黄山学者学术骨干
     name: 程乐超
     website: https://liygcheng.github.io/home/
   - category: 教师
-    image: yaxiong.png![img.png](img.png)
+    image: yaxiong.png
     position: 副教授
     research: 黄山学者学术骨干
     name: 王亚雄
@@ -104,7 +104,7 @@ profiles:
     research: --
     join_date: 2024
   - category: 硕士
-    image: prof_pic.png
+    image: lihaiyang.png
     name: 李海洋
     position: 保研
     research: --
