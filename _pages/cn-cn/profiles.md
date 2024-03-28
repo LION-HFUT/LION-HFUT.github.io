@@ -14,13 +14,21 @@ profiles:
   - category: 教师
     image: zhun.png
     position: 教授
+    research: 国家四青
     name: 钟准
     website: https://zhunzhong.site
   - category: 教师
     image: prof_pic.jpg
-    position: 教授
-    name: 关羽
-    website: https://zhunzhong.site
+    position: 副教授
+    research: 黄山学者学术骨干
+    name: 程乐超
+    website: https://liygcheng.github.io/home/
+  - category: 教师
+    image: yaxiong.png![img.png](img.png)
+    position: 副教授
+    research: 黄山学者学术骨干
+    name: 王亚雄
+    website: https://scholar.google.com/citations?user=lDChiR4AAAAJ&hl=zh-CN
   - category: 博后
     image: nan.png
     name: 普楠
@@ -77,6 +85,30 @@ profiles:
     position: 联合培养
     research: Domain Adaptation
     join_date: 2021
+  - category: 硕士
+    image: zhenxing.png
+    name: 张振兴
+    position: 保研
+    research: --
+    join_date: 2023
+  - category: 硕士
+    image: prof_pic.png
+    name: 王兢
+    position: 保研
+    research: --
+    join_date: 2024
+  - category: 硕士
+    image: prof_pic.png
+    name: 杨奕在
+    position: 保研
+    research: --
+    join_date: 2024
+  - category: 硕士
+    image: prof_pic.png
+    name: 李海洋
+    position: 保研
+    research: --
+    join_date: 2024
   - category: 国内外合作伙伴
     image: prof_pic.jpg
     name: Nicu Sebe
@@ -91,8 +123,8 @@ profiles:
     position: 澳大利亚国立大学
   - category: 国内外合作伙伴
     image: prof_pic.jpg
-    name: 罗志明
-    position: 厦门大学
+    name: 杨易
+    position: 浙江大学
 ---
 
 <style>
