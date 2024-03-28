@@ -17,4 +17,4 @@ social: false # includes social icons at the bottom of the page
 
 **[中文主页](https://lion-hfut.github.io/cn-cn/)**
 
-<img title="" alt="" src="/assets/img/research_overview.jpg" width="1214px" height="307px">
+<img title="" alt="" src="/assets/img/research_overview.jpg" width="850px" height="215px">
