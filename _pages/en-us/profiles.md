@@ -98,7 +98,7 @@ profiles:
     research: --
     join_date: 2024
   - category: 硕士
-    image: prof_pic.png
+    image: prof_pic.jpg
     name: 杨奕在
     position: 保研
     research: --
