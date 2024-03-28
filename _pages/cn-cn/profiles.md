@@ -32,11 +32,11 @@ profiles:
   - category: 博后
     image: nan.png
     name: 普楠
-    research: Computer Vision
+    research: 特伦托大学 (长期合作)
   - category: 博后
     image: pic_girl.png
     name: 李文静
-    research: Computer Vision
+    research: 诺丁汉大学 （长期合作）
   - category: 博士
     image: dong.jpg
     name: 赵栋
