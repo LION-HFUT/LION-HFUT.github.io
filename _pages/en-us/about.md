@@ -19,4 +19,4 @@ social: false # includes social icons at the bottom of the page
 
 <img title="" alt="" src="/assets/img/research_overview.jpg" width="850px" height="215px">
 
-<img title="" alt="" src="/assets/img/research_overview2.jpg" width="620px" height="567px">
+<img title="" alt="" src="/assets/img/research_overview3.jpg" width="620px" height="567px" class="center">
