@@ -121,10 +121,6 @@ profiles:
     image: prof_pic.jpg
     name: 郑良
     position: 澳大利亚国立大学
-  - category: 国内外合作伙伴
-    image: prof_pic.jpg
-    name: 杨易
-    position: 浙江大学
 ---
 
 <style>
