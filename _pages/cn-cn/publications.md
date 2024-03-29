@@ -8,9 +8,7 @@ nav: true
 nav_order: 3
 ---
 
-\* Equal Contribution 
-
-† Corresponding Author
+\* 共同一作     † 通讯作者
 
 <!-- _pages/publications.md -->
 <div class="publications">
