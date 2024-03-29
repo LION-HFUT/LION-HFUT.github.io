@@ -134,7 +134,7 @@ profiles:
   }
   .profile {
     text-align: center;
-    width: 190px;
+    width: 210px;
   }
   .profile img {
     max-width: 100%;
