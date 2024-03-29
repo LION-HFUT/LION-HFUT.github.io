@@ -110,15 +110,15 @@ profiles:
     research: --
     join_date: 2024
   - category: 国内外合作伙伴
-    image: prof_pic.jpg
+    image: nicu.jpg
     name: Nicu Sebe
     position: 特伦托大学
   - category: 国内外合作伙伴
-    image: prof_pic.jpg
+    image: elisa.jpg
     name: Elisa Ricci
     position: 特伦托大学
   - category: 国内外合作伙伴
-    image: prof_pic.jpg
+    image: liangzheng.jpg
     name: 郑良
     position: 澳大利亚国立大学
 ---
