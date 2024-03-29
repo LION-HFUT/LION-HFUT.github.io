@@ -17,6 +17,4 @@ social: false # includes social icons at the bottom of the page
 
 <div style="text-align: center;">
 <img title="" alt="" src="/assets/img/research_overview.png" width="1350px">
-
-<img title="" alt="" src="/assets/img/research_overview3.png" width="700px" height="643px" class="center">
 </div>

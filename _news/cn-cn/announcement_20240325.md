@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-实验室钟准老师被邀请担任ICML2024领域主席.
+实验室钟准老师受邀担任ICML2024领域主席.
