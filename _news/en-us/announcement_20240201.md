@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Four papers are accepted by CVPR 2024. Congrats to all.
+Five papers are accepted by CVPR 2024. Congrats to all.
