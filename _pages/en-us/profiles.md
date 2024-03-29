@@ -92,7 +92,7 @@ profiles:
     research: --
     join_date: 2023
   - category: 硕士
-    image: prof_pic.png
+    image: wangjing.png
     name: 王兢
     position: 保研
     research: --
