@@ -112,15 +112,18 @@ profiles:
   - category: 国内外合作伙伴
     image: nicu.png
     name: Nicu Sebe
+    website: https://disi.unitn.it/~sebe/
     position: 特伦托大学
   - category: 国内外合作伙伴
     image: elisa.png
     name: Elisa Ricci
     position: 特伦托大学
+    website: https://eliricci.eu/
   - category: 国内外合作伙伴
     image: liangzheng.png
     name: 郑良
     position: 澳大利亚国立大学
+    website: https://zheng-lab.cecs.anu.edu.au/
 ---
 
 
