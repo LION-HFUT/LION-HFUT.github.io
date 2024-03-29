@@ -15,6 +15,9 @@ social: false # includes social icons at the bottom of the page
 
 🔥 **研究生招生：** LION长期招募硕博研究生、本科实习生、博士后，详细请参考[智能视觉实验室招生简章](/joinus/)
 
+
+<img title="" alt="" src="/assets/img/research_overview.jpg">
+
 <div style="text-align: center;">
 <img title="" alt="" src="/assets/img/research_overview3.png" width="700px" height="643px" class="center">
 </div>
