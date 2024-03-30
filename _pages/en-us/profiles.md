@@ -110,17 +110,20 @@ profiles:
     research: --
     join_date: 2024
   - category: Research Collaborator
-    image: nicu.jpg
+    image: nicu.png
     name: Nicu Sebe
     position: 特伦托大学
+    website: https://disi.unitn.it/~sebe/
   - category: Research Collaborator
-    image: elisa.jpg
+    image: elisa.png
     name: Elisa Ricci
     position: 特伦托大学
+    website: https://eliricci.eu/
   - category: Research Collaborator
-    image: liangzheng.jpg
+    image: liangzheng.png
     name: 郑良
     position: 澳大利亚国立大学
+    website: https://zheng-lab.cecs.anu.edu.au/
 ---
 
 <style>
