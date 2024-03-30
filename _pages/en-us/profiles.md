@@ -13,7 +13,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - category: Faculty
     image: zhun.png
-    position: 教授
+    position: Professor
     # research: 国家级青年人才
     name: Zhun Zhong
     website: https://zhunzhong.site
