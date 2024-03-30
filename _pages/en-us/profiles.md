@@ -98,7 +98,7 @@ profiles:
     research: --
     join_date: 2024
   - category: Master
-    image: prof_pic.jpg
+    image: yizai.png
     name: 杨奕在
     position: 保研
     research: --
