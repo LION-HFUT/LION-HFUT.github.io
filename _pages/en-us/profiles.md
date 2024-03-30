@@ -15,114 +15,114 @@ profiles:
     image: zhun.png
     position: 教授
     # research: 国家级青年人才
-    name: 钟准
+    name: Zhun Zhong
     website: https://zhunzhong.site
   - category: Faculty
     image: lechao.png
-    position: 副教授
-    research: 黄山学者学术骨干
-    name: 程乐超
-    website: https://liygcheng.github.io/home/
+    position: Associate Professor
+    #research: 黄山学者学术骨干
+    name: Lechao Cheng
+    #website: https://liygcheng.github.io/home/
   - category: Faculty
     image: yaxiong.jpg
-    position: 副教授
-    research: 黄山学者学术骨干
+    position: Associate Professor
+    #research: 黄山学者学术骨干
     name: 王亚雄
     website: https://scholar.google.com/citations?user=lDChiR4AAAAJ&hl=zh-CN
   - category: Postdoc
     image: nan.png
-    name: 普楠
-    research: 特伦托大学 (长期合作)
+    name: Nan Pu
+    research: University of Trento (Co-Supervised)
   - category: Postdoc
     image: pic_girl.png
-    name: 李文静
-    research: 诺丁汉大学 （长期合作）
+    name: Wenjing Li
+    research: University of Trento (Co-Supervised)
   - category: PhD
     image: dong.jpg
-    name: 赵栋
-    position: 联合培养
+    name: Dong Zhao
+    position: University of Trento (Co-Supervised)
     research: Segmentation
-    join_date: 2020级
+    join_date: 2020 Fall
   - category: PhD
     image: fengxiang.png
-    name: 杨丰祥
-    position: 联合培养
+    name: Fengxiang Yang
+    position: Xiamen University (Co-Supervised)
     research: Retrieval
-    join_date: 2020级
+    join_date: 2020 Fall
   - category: PhD
     image: mingxuan.png
-    name: 刘明轩
-    position: 联合培养
+    name: Mingxuan Liu
+    position: University of Trento (Co-Supervised)
     research: Open-Set
-    join_date: 2022
+    join_date: 2022 Fall
   - category: PhD
     image: pic_boy.png
-    name: 沈磊
-    position: 联合培养
+    name: Lei Shen
+    position: Hong Kong Baptist University (Co-Supervised)
     research: Federated Learning
-    join_date: 2022
+    join_date: 2022 Fall
   - category: PhD
     image: yan.png
-    name: 张研
-    position: 硕博连读
+    name: Yan Zhang
+    position: Co-Supervised
     research: Video Recognition
-    join_date: 2023级
+    join_date: 2023 Fall
   - category: Master
     image: chentaocao.jpg
-    name: 曹晨涛
-    position: 联合培养
+    name: Chentao Cao
+    position: Hong Kong Baptist University (Co-Supervised)
     research: OOD Detection
-    join_date: 2021
+    join_date: 2021 Fall
   - category: Master
     image: haiyang.png
-    name: 郑海阳
-    position: 联合培养
+    name: Haiyang Zheng
+    position: Harbin Institute of Technology (Co-Supervised)
     research: Novel Class Discovery
-    join_date: 2021
+    join_date: 2021 FALL
   - category: Master
     image: weiwang.png
-    name: 汪炜
-    position: 联合培养
+    name: Wei Wang
+    position: Western University (Co-Supervised)
     research: Domain Adaptation
     join_date: 2021
   - category: Master
     image: zhenxing.png
-    name: 张振兴
-    position: 保研
+    name: Zhenxing Zhang
+    position: Co-Supervised
     research: --
     join_date: 2023
   - category: Master
     image: wangjing.png
-    name: 王兢
-    position: 保研
+    name: Jing Wang
+    # position: 保研
     research: --
-    join_date: 2024
+    join_date: 2024 Fall
   - category: Master
     image: yizai.png
-    name: 杨奕在
-    position: 保研
+    name: Yizai Yang
+    # position: 保研
     research: --
-    join_date: 2024
+    join_date: 2024 Fall
   - category: Master
     image: lihaiyang.png
-    name: 李海洋
-    position: 保研
+    name: Haiyang Li
+    # position: 保研
     research: --
-    join_date: 2024
+    join_date: 2024 Fall
   - category: Research Collaborator
     image: nicu.png
     name: Nicu Sebe
-    position: 特伦托大学
+    position: University of Trento
     website: https://disi.unitn.it/~sebe/
   - category: Research Collaborator
     image: elisa.png
     name: Elisa Ricci
-    position: 特伦托大学
+    position: University of Trento
     website: https://eliricci.eu/
   - category: Research Collaborator
     image: liangzheng.png
-    name: 郑良
-    position: 澳大利亚国立大学
+    name: Liang Zheng
+    position: Australian National University
     website: https://zheng-lab.cecs.anu.edu.au/
 ---
 
