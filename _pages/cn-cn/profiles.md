@@ -15,6 +15,7 @@ profiles:
     image: zhun.png
     position: 教授
     research: 国家级青年人才
+    join_date: 即将加入，已可招生
     name: 钟准
     website: https://zhunzhong.site
   - category: 教师
