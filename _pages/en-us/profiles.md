@@ -3,7 +3,7 @@ page_id: profiles
 layout: page
 permalink: /people/
 title: People
-description: 实验室包括教授1人、副教授2人、博后2人、博士5人以及硕士7人，并与国内外知名学者长期合作。
+description: Our LION includes 1 Professor, 2 Associate Professor, 2 Postdocs, 5 PhD students and 7 Master students. We also closely collaborate with international senior researchers.
 categories: [Faculty, Postdoc, PhD, Master, Research Collaborator]
 nav: true
 nav_order: 2
