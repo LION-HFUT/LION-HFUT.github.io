@@ -27,7 +27,7 @@ profiles:
     image: yaxiong.jpg
     position: Associate Professor
     #research: 黄山学者学术骨干
-    name: 王亚雄
+    name: Yaxiong Wang
     website: https://scholar.google.com/citations?user=lDChiR4AAAAJ&hl=zh-CN
   - category: Postdoc
     image: nan.png
