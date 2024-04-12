@@ -110,7 +110,7 @@ profiles:
     position: 保研
     research: --
     join_date: 2024
-  - category: Master
+  - category: 硕士
     image: qihang.png
     name: 王起航
     position: 保研
