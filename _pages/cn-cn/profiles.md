@@ -110,6 +110,12 @@ profiles:
     position: 保研
     research: --
     join_date: 2024
+  - category: Master
+    image: qihang.png
+    name: 王起航
+    position: 保研
+    research: --
+    join_date: 2024 Fall
   - category: 国内外合作伙伴
     image: nicu.png
     name: Nicu Sebe
