@@ -115,7 +115,7 @@ profiles:
     # position: 保研
     research: --
     join_date: 2024 Fall
-  -   - category: Master
+  - category: Master
     image: canyang.png
     name: Canyang Wang
     # position: 保研

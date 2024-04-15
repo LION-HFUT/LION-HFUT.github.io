@@ -116,7 +116,7 @@ profiles:
     # position: 保研
     research: --
     join_date: 2024 Fall
-  - category: Master
+  - category: 硕士
     image: canyang.png
     name: 王灿阳
     # position: 保研
