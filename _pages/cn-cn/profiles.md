@@ -113,7 +113,13 @@ profiles:
   - category: 硕士
     image: qihang.png
     name: 王起航
-    position: 保研
+    # position: 保研
+    research: --
+    join_date: 2024 Fall
+  - category: Master
+    image: canyang.png
+    name: 王灿阳
+    # position: 保研
     research: --
     join_date: 2024 Fall
   - category: 国内外合作伙伴
