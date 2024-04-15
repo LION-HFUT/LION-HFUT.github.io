@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Prof. Zhun Zhong is invited as Area Chair for NeurIPS 2024.
+Prof. Zhun Zhong is invited as Area Chair for [NeurIPS](https://neurips.cc/) 2024.

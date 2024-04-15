@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-实验室钟准老师受邀担任NeurIPS2024领域主席.
+实验室钟准老师受邀担任[NeurIPS](https://neurips.cc/)2024领域主席.
