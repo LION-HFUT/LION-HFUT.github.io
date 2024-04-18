@@ -3,7 +3,7 @@ page_id: profiles
 layout: page
 permalink: /people/
 title: 成员
-description: 实验室包括教授1人、副教授2人、博后2人、博士5人以及硕士8人，并与国内外知名学者长期合作。
+description: 实验室包括教授1人、副教授2人、博后2人、博士5人以及硕士9人，并与国内外知名学者长期合作。
 categories: [教师, 博后, 博士, 硕士, 国内外合作伙伴]
 nav: true
 nav_order: 2

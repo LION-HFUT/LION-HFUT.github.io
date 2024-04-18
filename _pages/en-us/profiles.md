@@ -3,7 +3,7 @@ page_id: profiles
 layout: page
 permalink: /people/
 title: People
-description: Our LION includes 1 Professor, 2 Associate Professor, 2 Postdocs, 5 PhD students and 8 Master students. We also closely collaborate with international senior researchers.
+description: Our LION includes 1 Professor, 2 Associate Professor, 2 Postdocs, 5 PhD students and 9 Master students. We also closely collaborate with international senior researchers.
 categories: [Faculty, Postdoc, PhD, Master, Research Collaborator]
 nav: true
 nav_order: 2
