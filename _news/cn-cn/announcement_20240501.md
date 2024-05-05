@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-实验室两篇论文被机器学习顶会ICML 2024接收.
+实验室两篇论文被机器学习顶会 ICML 2024接收.

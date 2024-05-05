@@ -11,6 +11,9 @@
 "NeurIPS":
   color: "#00369f"
 
+"ICML":
+  color: "#00369f"
+
 "ICCV":
   color: "#00369f"
 
@@ -19,7 +22,6 @@
 
 "ARXIV":
   color: "#FFBE33"
-
 
 
 "PhysRev":
