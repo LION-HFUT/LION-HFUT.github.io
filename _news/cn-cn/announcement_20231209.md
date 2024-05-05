@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-实验室五篇论文被AAAI 2024接收.
+实验室五篇论文被人工智能顶会AAAI 2024接收.

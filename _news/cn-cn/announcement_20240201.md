@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-实验室五篇论文被CVPR 2024接收.
+实验室五篇论文被计算机视觉顶会CVPR 2024接收.
