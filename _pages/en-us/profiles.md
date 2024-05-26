@@ -22,7 +22,7 @@ profiles:
     position: Associate Professor
     #research: 黄山学者学术骨干
     name: Lechao Cheng
-    #website: https://liygcheng.github.io/home/
+    website: https://liygcheng.github.io/home/
   - category: Faculty
     image: yaxiong.jpg
     position: Associate Professor

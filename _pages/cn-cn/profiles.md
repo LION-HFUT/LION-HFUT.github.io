@@ -65,7 +65,7 @@ profiles:
   - category: 博士
     image: yan.png
     name: 张研
-    position: 硕博连读
+    # position: 硕博连读
     research: Video Recognition
     join_date: 2023级
   - category: 硕士
@@ -89,25 +89,25 @@ profiles:
   - category: 硕士
     image: zhenxing.png
     name: 张振兴
-    position: 保研
+    # position: 保研
     research: --
     join_date: 2023
   - category: 硕士
     image: wangjing.png
     name: 王兢
-    position: 保研
+    # position: 保研
     research: --
     join_date: 2024
   - category: 硕士
     image: yizai.png
     name: 杨奕在
-    position: 保研
+    # position: 保研
     research: --
     join_date: 2024
   - category: 硕士
     image: lihaiyang.png
     name: 李海洋
-    position: 保研
+    # position: 保研
     research: --
     join_date: 2024
   - category: 硕士
