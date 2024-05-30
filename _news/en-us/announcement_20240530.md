@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Prof. Zhun Zhong is invited as AE for [Computer Vision and Image Understanding](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding/about/editorial-board)。
+Prof. Zhun Zhong is invited as AE for [Computer Vision and Image Understanding](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding/about/editorial-board).
