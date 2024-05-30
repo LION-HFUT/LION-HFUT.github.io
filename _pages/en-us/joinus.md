@@ -23,8 +23,6 @@ nav_order: 4
 
 <br />
 
-- <span style="color: red; font-weight: bold;">当前(2024年9月入学)课题组仍有两个硕士生名额, 欢迎联系</span>
-
 - <span style="color: red; font-weight: bold;">2025年（9月入学）保研课题组内遴选已经开始，欢迎尽早联系，可提前加入课题组学习（提供补助和GPU）</span>
 
 - <span style="color: red; font-weight: bold;">2025年（9月入学）硕博连读课题组内遴选已经开始，欢迎尽早联系，可提前加入课题组学习（提供补助和GPU）</span>
@@ -46,6 +44,8 @@ LION长期积极招募对原创科研有高度热情，有一定科研训练，�
     - Yuyang Zhao (一作发表 2CVPR, 1 ECCV, 1 IJCV, 1 NeurIPS)
     - Enrico Fini (一作发表 1 ICCV Oral)
     - Wei Wang (一作发表 1 CVPR)
+    - Chentao Cao (一作发表 1 ICML)
+    - Subhankar Roy (一作发表 1 CVPR, 1 ECCV)
 
 <br />
 
