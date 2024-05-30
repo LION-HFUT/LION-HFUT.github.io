@@ -46,6 +46,7 @@ LION长期积极招募对原创科研有高度热情，有一定科研训练，�
     - Wei Wang (一作发表 1 CVPR)
     - Chentao Cao (一作发表 1 ICML)
     - Subhankar Roy (一作发表 1 CVPR, 1 ECCV)
+    - Yongguo Ling (一作发表 1 AAAI, 1 ACM MM)
 
 <br />
 
