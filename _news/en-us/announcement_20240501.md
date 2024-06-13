@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers are accepted by ICML 2024. Congrats to all.
+Two papers are accepted by ICML 2024, in which one is selected as Spotlight (Top 3.5%). Congrats to all.
