@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Six papers are accepted by ECCV 2024 and two papers are accepted by ACM MM 2024. Congrats to all.
+Six papers are accepted by ECCV 2024 and two papers are accepted by ACM MM 2024. Congrats to all!
