@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-实验室六篇论文被计算机视觉顶会ECCV 2024接收，两篇论文被多媒体顶会ACM MM 2024接收。
+实验室六篇论文被计算机视觉顶会ECCV 2024接收，两篇论文被多媒体顶会ACM MM 2024接收!
