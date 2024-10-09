@@ -148,7 +148,7 @@ profiles:
     research: --
     join_date: 2025 Fall
   - category: 硕士
-    image: pic_boy.png
+    image: jinyuan.png
     name: 秦瑾源
     # position: 保研
     research: --

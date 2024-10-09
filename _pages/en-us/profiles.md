@@ -147,7 +147,7 @@ profiles:
     research: --
     join_date: 2025 Fall
   - category: Master
-    image: pic_boy.png
+    image: jinyuan.png
     name: Jinyuan Qin
     # position: 保研
     research: --
