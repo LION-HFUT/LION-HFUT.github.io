@@ -178,7 +178,7 @@ profiles:
     research: --
     # join_date: 2025 Fall
   - category: 本科
-    image: pic_boy.png
+    image: junxi.png
     name: 王俊熙
     # position: 保研
     research: --

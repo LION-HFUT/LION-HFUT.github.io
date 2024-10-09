@@ -177,7 +177,7 @@ profiles:
     research: --
     # join_date: 2025 Fall
   - category: UG
-    image: pic_boy.png
+    image: junxi.png
     name: Junxi Wang
     # position: 保研
     research: --
