@@ -34,23 +34,27 @@ profiles:
     image: nan.png
     name: 普楠
     research: 特伦托大学 (长期合作)
+    website: https://tpcd.github.io/
   - category: 教师
     image: wenjing.png
     name: 李文静
     position: 青年教师
     # research: 诺丁汉大学 （长期合作）
+    website: https://scholar.google.com/citations?hl=en&user=uBjSytAAAAAJ
   - category: 博士
     image: dong.jpg
     name: 赵栋
     position: 联合培养
     research: Segmentation
     join_date: 2020级
+    website: https://scholar.google.com/citations?hl=en&user=j_UjUUUAAAAJ
   - category: 博士
     image: fengxiang.png
     name: 杨丰祥
     position: 联合培养
     research: Retrieval
     join_date: 2020级
+    website: https://flyingroastduck.github.io/
   - category: 博士
     image: mingxuan.png
     name: 刘明轩

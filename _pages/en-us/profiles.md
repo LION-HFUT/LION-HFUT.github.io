@@ -33,23 +33,27 @@ profiles:
     image: nan.png
     name: Nan Pu
     research: University of Trento (Co-Supervised)
+    website: https://tpcd.github.io/
   - category: Faculty
     image: wenjing.png
     name: Wenjing Li
     position: Lecturer
     # research: University of Trento (Co-Supervised)
+    website: https://scholar.google.com/citations?hl=en&user=uBjSytAAAAAJ
   - category: PhD
     image: dong.jpg
     name: Dong Zhao
     position: University of Trento (Co-Supervised)
     research: Segmentation
     join_date: 2020 Fall
+    website: https://scholar.google.com/citations?hl=en&user=j_UjUUUAAAAJ
   - category: PhD
     image: fengxiang.png
     name: Fengxiang Yang
     position: Xiamen University (Co-Supervised)
     research: Retrieval
     join_date: 2020 Fall
+    website: https://flyingroastduck.github.io/
   - category: PhD
     image: mingxuan.png
     name: Mingxuan Liu
