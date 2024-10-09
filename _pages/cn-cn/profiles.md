@@ -69,6 +69,12 @@ profiles:
     # position: 硕博连读
     research: Video Recognition
     join_date: 2023级
+  - category: 博士
+    image: tengfei.png
+    name: 梁腾飞
+    position: 联合培养
+    research: Person ReID
+    join_date: 2021级
   - category: 硕士
     image: chentaocao.jpg
     name: 曹晨涛

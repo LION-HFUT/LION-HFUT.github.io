@@ -68,6 +68,12 @@ profiles:
     position: Co-Supervised
     research: Video Recognition
     join_date: 2023 Fall
+  - category: PhD
+    image: tengfei.png
+    name: Tengfei Liang
+    position: Beijing Jiaotong University (Co-Supervised)
+    research: Person ReID
+    join_date: 2021 Fall
   - category: Master
     image: chentaocao.jpg
     name: Chentao Cao
