@@ -117,11 +117,47 @@ profiles:
     research: --
     join_date: 2024 Fall
   - category: 硕士
-    image: canyang.png
-    name: 王灿阳
+    image: pic_boy.png
+    name: 王昱滨
     # position: 保研
     research: --
     join_date: 2024 Fall
+  - category: 硕士
+    image: pic_boy.png
+    name: 何思瑞
+    # position: 保研
+    research: --
+    join_date: 2025 Fall
+  - category: 硕士
+    image: pic_boy.png
+    name: 徐浩
+    # position: 保研
+    research: --
+    join_date: 2025 Fall
+  - category: 硕士
+    image: pic_boy.png
+    name: 秦瑾源
+    # position: 保研
+    research: --
+    join_date: 2025 Fall
+  - category: 硕士
+    image: pic_boy.png
+    name: 高雨
+    # position: 保研
+    research: --
+    join_date: 2025 Fall
+  - category: 硕士
+    image: pic_boy.png
+    name: 胡乐乐
+    # position: 保研
+    research: --
+    join_date: 2025 Fall
+  - category: 硕士
+    image: pic_boy.png
+    name: 毕照祥
+    # position: 保研
+    research: --
+    join_date: 2025 Fall
   - category: 国内外合作伙伴
     image: nicu.png
     name: Nicu Sebe

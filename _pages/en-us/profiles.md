@@ -116,11 +116,47 @@ profiles:
     research: --
     join_date: 2024 Fall
   - category: Master
-    image: canyang.png
-    name: Canyang Wang
+    image: pic_boy.png
+    name: Yubin Wang
     # position: 保研
     research: --
     join_date: 2024 Fall
+  - category: Master
+    image: pic_girl.png
+    name: Sirui He
+    # position: 保研
+    research: --
+    join_date: 2025 Fall
+  - category: Master
+    image: pic_boy.png
+    name: Hao Xu
+    # position: 保研
+    research: --
+    join_date: 2025 Fall
+  - category: Master
+    image: pic_boy.png
+    name: Jinyuan Qin
+    # position: 保研
+    research: --
+    join_date: 2025 Fall
+  - category: Master
+    image: pic_girl.png
+    name: Yu Gao
+    # position: 保研
+    research: --
+    join_date: 2025 Fall
+  - category: Master
+    image: pic_girl.png
+    name: Lele Hu
+    # position: 保研
+    research: --
+    join_date: 2025 Fall
+  - category: Master
+    image: pic_boy.png
+    name: Zhaoxiang Bi
+    # position: 保研
+    research: --
+    join_date: 2025 Fall
   - category: Research Collaborator
     image: nicu.png
     name: Nicu Sebe
