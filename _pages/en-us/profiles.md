@@ -33,10 +33,11 @@ profiles:
     image: nan.png
     name: Nan Pu
     research: University of Trento (Co-Supervised)
-  - category: Postdoc
-    image: pic_girl.png
+  - category: Faculty
+    image: wenjing.png
     name: Wenjing Li
-    research: University of Trento (Co-Supervised)
+    position: Lecturer
+    # research: University of Trento (Co-Supervised)
   - category: PhD
     image: dong.jpg
     name: Dong Zhao
@@ -140,7 +141,7 @@ profiles:
     research: --
     join_date: 2025 Fall
   - category: Master
-    image: pic_girl.png
+    image: gaoyu.png
     name: Yu Gao
     # position: 保研
     research: --
@@ -152,7 +153,7 @@ profiles:
     research: --
     join_date: 2025 Fall
   - category: Master
-    image: pic_boy.png
+    image: zhaoxiang.png
     name: Zhaoxiang Bi
     # position: 保研
     research: --

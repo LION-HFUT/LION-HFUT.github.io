@@ -34,10 +34,11 @@ profiles:
     image: nan.png
     name: 普楠
     research: 特伦托大学 (长期合作)
-  - category: 博后
-    image: pic_girl.png
+  - category: 教师
+    image: wenjing.png
     name: 李文静
-    research: 诺丁汉大学 （长期合作）
+    position: 青年教师
+    # research: 诺丁汉大学 （长期合作）
   - category: 博士
     image: dong.jpg
     name: 赵栋
@@ -141,7 +142,7 @@ profiles:
     research: --
     join_date: 2025 Fall
   - category: 硕士
-    image: pic_boy.png
+    image: gaoyu.png
     name: 高雨
     # position: 保研
     research: --
@@ -153,7 +154,7 @@ profiles:
     research: --
     join_date: 2025 Fall
   - category: 硕士
-    image: pic_boy.png
+    image: zhaoxiang.png
     name: 毕照祥
     # position: 保研
     research: --
