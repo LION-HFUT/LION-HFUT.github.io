@@ -147,7 +147,7 @@ profiles:
     research: --
     join_date: 2025 Fall
   - category: Master
-    image: pic_girl.png
+    image: lele.png
     name: Lele Hu
     # position: 保研
     research: --

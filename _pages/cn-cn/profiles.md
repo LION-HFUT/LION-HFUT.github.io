@@ -148,7 +148,7 @@ profiles:
     research: --
     join_date: 2025 Fall
   - category: 硕士
-    image: pic_boy.png
+    image: lele.png
     name: 胡乐乐
     # position: 保研
     research: --
