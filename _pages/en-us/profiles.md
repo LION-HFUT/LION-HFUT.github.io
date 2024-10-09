@@ -4,7 +4,7 @@ layout: page
 permalink: /people/
 title: People
 description: Our LION includes 1 Professor, 2 Associate Professor, 2 Postdocs, 5 PhD students and 9 Master students. We also closely collaborate with international senior researchers.
-categories: [Faculty, Postdoc, PhD, Master, Research Collaborator]
+categories: [Faculty, Postdoc, PhD, Master, UG, Research Collaborator]
 nav: true
 nav_order: 2
 
@@ -73,6 +73,12 @@ profiles:
     name: Tengfei Liang
     position: Beijing Jiaotong University (Co-Supervised)
     research: Person ReID
+    join_date: 2021 Fall
+  - category: PhD
+    image: lingrui.png
+    name: Lingrui Li
+    position: University of Nottingham (Co-Supervised)
+    research: Medical Imaging
     join_date: 2021 Fall
   - category: Master
     image: chentaocao.jpg
@@ -164,6 +170,18 @@ profiles:
     # position: 保研
     research: --
     join_date: 2025 Fall
+  - category: UG
+    image: jinjie.png
+    name: Jinjie Shen
+    # position: 保研
+    research: --
+    # join_date: 2025 Fall
+  - category: UG
+    image: pic_boy.png
+    name: Junxi Wang
+    # position: 保研
+    research: --
+    # join_date: 2025 Fall
   - category: Research Collaborator
     image: nicu.png
     name: Nicu Sebe

@@ -4,7 +4,7 @@ layout: page
 permalink: /people/
 title: 成员
 description: 实验室包括教授1人、副教授2人、博后2人、博士5人以及硕士9人，并与国内外知名学者长期合作。
-categories: [教师, 博后, 博士, 硕士, 国内外合作伙伴]
+categories: [教师, 博后, 博士, 硕士, 本科, 国内外合作伙伴]
 nav: true
 nav_order: 2
 
@@ -75,6 +75,12 @@ profiles:
     position: 联合培养
     research: Person ReID
     join_date: 2021级
+  - category: 博士
+    image: lingrui.png
+    name: 李泠睿
+    position: 联合培养
+    research: Medical Imaging
+    join_date: 2024级
   - category: 硕士
     image: chentaocao.jpg
     name: 曹晨涛
@@ -165,6 +171,18 @@ profiles:
     # position: 保研
     research: --
     join_date: 2025 Fall
+  - category: 本科
+    image: jinjie.png
+    name: 沈锦杰
+    # position: 保研
+    research: --
+    # join_date: 2025 Fall
+  - category: 本科
+    image: pic_boy.png
+    name: 王俊熙
+    # position: 保研
+    research: --
+    # join_date: 2025 Fall
   - category: 国内外合作伙伴
     image: nicu.png
     name: Nicu Sebe
