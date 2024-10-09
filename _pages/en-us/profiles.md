@@ -123,7 +123,7 @@ profiles:
     research: --
     join_date: 2024 Fall
   - category: Master
-    image: pic_boy.png
+    image: yubin.png
     name: Yubin Wang
     # position: 保研
     research: --

@@ -124,7 +124,7 @@ profiles:
     research: --
     join_date: 2024 Fall
   - category: 硕士
-    image: pic_boy.png
+    image: yubin.png
     name: 王昱滨
     # position: 保研
     research: --
