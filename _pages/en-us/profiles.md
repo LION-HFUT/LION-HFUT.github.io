@@ -123,7 +123,7 @@ profiles:
     research: --
     join_date: 2024 Fall
   - category: Master
-    image: pic_girl.png
+    image: sirui.png
     name: Sirui He
     # position: 保研
     research: --

@@ -124,7 +124,7 @@ profiles:
     research: --
     join_date: 2024 Fall
   - category: 硕士
-    image: pic_boy.png
+    image: sirui.png
     name: 何思瑞
     # position: 保研
     research: --
