@@ -45,57 +45,57 @@ profiles:
     name: Dong Zhao
     position: University of Trento (Co-Supervised)
     research: Segmentation
-    join_date: 2020 Fall
+    join_date: 2020
     website: https://scholar.google.com/citations?hl=en&user=j_UjUUUAAAAJ
   - category: PhD
     image: fengxiang.png
     name: Fengxiang Yang
     position: Xiamen University (Co-Supervised)
     research: Retrieval
-    join_date: 2020 Fall
+    join_date: 2020
     website: https://flyingroastduck.github.io/
   - category: PhD
     image: mingxuan.png
     name: Mingxuan Liu
     position: University of Trento (Co-Supervised)
     research: Open-Set
-    join_date: 2022 Fall
+    join_date: 2022
   - category: PhD
     image: pic_boy.png
     name: Lei Shen
     position: Hong Kong Baptist University (Co-Supervised)
     research: Federated Learning
-    join_date: 2022 Fall
+    join_date: 2022
   - category: PhD
     image: yan.png
     name: Yan Zhang
     position: Co-Supervised
     research: Video Recognition
-    join_date: 2023 Fall
+    join_date: 2023
   - category: PhD
     image: tengfei.png
     name: Tengfei Liang
     position: Beijing Jiaotong University (Co-Supervised)
     research: Person ReID
-    join_date: 2021 Fall
+    join_date: 2021
   - category: PhD
     image: lingrui.png
     name: Lingrui Li
     position: University of Nottingham (Co-Supervised)
     research: Medical Imaging
-    join_date: 2021 Fall
+    join_date: 2021
   - category: Master
     image: chentaocao.jpg
     name: Chentao Cao
     position: Hong Kong Baptist University (Co-Supervised)
     research: OOD Detection
-    join_date: 2021 Fall
+    join_date: 2021
   - category: Master
     image: haiyang.png
     name: Haiyang Zheng
     position: Harbin Institute of Technology (Co-Supervised)
     research: Novel Class Discovery
-    join_date: 2021 FALL
+    join_date: 2021
   - category: Master
     image: weiwang.png
     name: Wei Wang
@@ -113,79 +113,79 @@ profiles:
     name: Jing Wang
     # position: 保研
     research: --
-    join_date: 2024 Fall
+    join_date: 2024
   - category: Master
     image: yizai.png
     name: Yizai Yang
     # position: 保研
     research: --
-    join_date: 2024 Fall
+    join_date: 2024
   - category: Master
     image: lihaiyang.png
     name: Haiyang Li
     # position: 保研
     research: --
-    join_date: 2024 Fall
+    join_date: 2024
   - category: Master
     image: qihang.png
     name: Qihang Wang
     # position: 保研
     research: --
-    join_date: 2024 Fall
+    join_date: 2024
   - category: Master
     image: yubin.png
     name: Yubin Wang
     # position: 保研
     research: --
-    join_date: 2024 Fall
+    join_date: 2024
   - category: Master
     image: sirui.png
     name: Sirui He
     # position: 保研
     research: --
-    join_date: 2025 Fall
+    join_date: 2025
   - category: Master
     image: pic_boy.png
     name: Hao Xu
     # position: 保研
     research: --
-    join_date: 2025 Fall
+    join_date: 2025
   - category: Master
     image: jinyuan.png
     name: Jinyuan Qin
     # position: 保研
     research: --
-    join_date: 2025 Fall
+    join_date: 2025
   - category: Master
     image: gaoyu.png
     name: Yu Gao
     # position: 保研
     research: --
-    join_date: 2025 Fall
+    join_date: 2025
   - category: Master
     image: lele.png
     name: Lele Hu
     # position: 保研
     research: --
-    join_date: 2025 Fall
+    join_date: 2025
   - category: Master
     image: zhaoxiang.png
     name: Zhaoxiang Bi
     # position: 保研
     research: --
-    join_date: 2025 Fall
+    join_date: 2025
   - category: Undergraduate
     image: jinjie.png
     name: Jinjie Shen
     # position: 保研
     research: --
-    # join_date: 2025 Fall
+    # join_date: 2025
   - category: Undergraduate
     image: junxi.png
     name: Junxi Wang
     # position: 保研
     research: --
-    # join_date: 2025 Fall
+    # join_date: 2025
   - category: Research Collaborator
     image: nicu.png
     name: Nicu Sebe

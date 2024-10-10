@@ -46,14 +46,14 @@ profiles:
     name: 赵栋
     position: 联合培养
     research: Segmentation
-    join_date: 2020级
+    join_date: 2020
     website: https://scholar.google.com/citations?hl=en&user=j_UjUUUAAAAJ
   - category: 博士
     image: fengxiang.png
     name: 杨丰祥
     position: 联合培养
     research: Retrieval
-    join_date: 2020级
+    join_date: 2020
     website: https://flyingroastduck.github.io/
   - category: 博士
     image: mingxuan.png
@@ -72,19 +72,19 @@ profiles:
     name: 张研
     # position: 硕博连读
     research: Video Recognition
-    join_date: 2023级
+    join_date: 2023
   - category: 博士
     image: tengfei.png
     name: 梁腾飞
     position: 联合培养
     research: Person ReID
-    join_date: 2021级
+    join_date: 2021
   - category: 博士
     image: lingrui.png
     name: 李泠睿
     position: 联合培养
     research: Medical Imaging
-    join_date: 2024级
+    join_date: 2024
   - category: 硕士
     image: chentaocao.jpg
     name: 曹晨涛
