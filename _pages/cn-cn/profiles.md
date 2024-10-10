@@ -146,7 +146,7 @@ profiles:
     research: --
     join_date: 2025 Fall
   - category: 硕士
-    image: pic_boy.png
+    image: xuhao.png
     name: 徐浩
     # position: 保研
     research: --

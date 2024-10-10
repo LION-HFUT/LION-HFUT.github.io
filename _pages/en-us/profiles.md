@@ -145,7 +145,7 @@ profiles:
     research: --
     join_date: 2025
   - category: Master
-    image: pic_boy.png
+    image: xuhao.png
     name: Hao Xu
     # position: 保研
     research: --
