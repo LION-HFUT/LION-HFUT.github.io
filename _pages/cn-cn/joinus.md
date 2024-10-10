@@ -40,20 +40,20 @@ LION长期积极招募对原创科研有高度热情，有一定科研训练，�
 
     - Fengxiang Yang (一作发表 1 TPAMI, 1 CVPR, 1 ECCV, 3 AAAI, 1 TMM)
     - Mingxuan Liu (一作发表 1 ECCV, 1 ICLR)
-    - Dong Zhao (一作发表 1 CVPR)
-    - Haiyang Zheng (一作发表 1 ECCV)
+    - Dong Zhao (一作发表 1 CVPR, 1 NeurIPS)
+    - Haiyang Zheng (一作发表 1 ECCV, 1 NeurIPS)
     - Yuyang Zhao (一作发表 2CVPR, 1 ECCV, 1 IJCV, 1 NeurIPS)
     - Enrico Fini (一作发表 1 ICCV Oral)
     - Wei Wang (一作发表 1 CVPR)
     - Chentao Cao (一作发表 1 ICML)
     - Subhankar Roy (一作发表 1 CVPR, 1 ECCV)
     - Yongguo Ling (一作发表 1 AAAI, 1 ACM MM)
-    - Yuzhu Wang(一作发表1 ICML, 1 ECCV)
+    - Yuzhu Wang (一作发表1 ICML, 1 ECCV)
     - Jingxuan He(一作发表1 AAAI)
     - Shuyu Yang (一作发表1 ACM  MM)
-    - Xintong Jiang(一作发表1 SIGIR)
-    - Junjie Yang(一作发表 1 IEEE TNNLS)
-    - Hao Zhang(一作发表1 IEEE TCSVT)
+    - Xintong Jiang (一作发表1 SIGIR)
+    - Junjie Yang (一作发表 1 IEEE TNNLS)
+    - Hao Zhang (一作发表1 IEEE TCSVT)
   
 <br />
 
@@ -76,4 +76,4 @@ LION长期积极招募对原创科研有高度热情，有一定科研训练，�
 
 * **Note 1:** **什么时候开始联系？** 保研和直博的学生推荐在五月份提前联系。考研的同学可在复试前提前联系。本科实习和访问学生可随时联系。
 
-* **Note 2: 如何考核？** 收到申请邮件后，相应老师会及时对您的材料进行评估，并组织考核。考核包括两轮：论文阅读（涉及代码复现）和编程。平均需要2周时间准备。（考研的同学我们将会考虑初试、复试、以及小组内面试表现进行综合评估。）
+* **Note 2: 如何考核？** 收到申请邮件后，相应老师会及时对您的材料进行评估，并组织面试考核。包括：一轮初面，和两轮考核：论文阅读（涉及代码复现）和编程。两轮考核平均需要1-2周时间准备。
