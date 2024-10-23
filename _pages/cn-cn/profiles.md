@@ -175,6 +175,30 @@ profiles:
     # position: 保研
     research: --
     join_date: 2025 Fall
+  - category: 硕士
+    image: zuqiao.png
+    name: 汤祖乔
+    # position: 保研
+    research: --
+    join_date: 2025
+  - category: 硕士
+    image: wenpei.png
+    name: 丁文佩
+    # position: 保研
+    research: --
+    join_date: 2025
+  - category: 硕士
+    image: fangyuan.png
+    name: 陈方圆
+    # position: 保研
+    research: --
+    join_date: 2025
+  - category: 硕士
+    image: luxuan.png
+    name: 汪璐璇
+    # position: 保研
+    research: --
+    join_date: 2025
   - category: 本科
     image: jinjie.png
     name: 沈锦杰

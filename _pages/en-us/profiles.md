@@ -174,6 +174,30 @@ profiles:
     # position: 保研
     research: --
     join_date: 2025
+  - category: Master
+    image: zuqiao.png
+    name: Zuqiao Tang
+    # position: 保研
+    research: --
+    join_date: 2025
+  - category: Master
+    image: wenpei.png
+    name: Wenpei Ding
+    # position: 保研
+    research: --
+    join_date: 2025
+  - category: Master
+    image: fangyuan.png
+    name: Fangyuan Chen
+    # position: 保研
+    research: --
+    join_date: 2025
+  - category: Master
+    image: luxuan.png
+    name: Luxuan Wang
+    # position: 保研
+    research: --
+    join_date: 2025
   - category: Undergraduate
     image: jinjie.png
     name: Jinjie Shen
