@@ -25,7 +25,7 @@ nav_order: 4
 
 - <span style="color: red; font-weight: bold;">2025年（9月入学）保研课题组内遴选已经开始，欢迎尽早联系，可提前加入课题组学习（提供补助和GPU）</span>
 
-- <span style="color: red; font-weight: bold;">2025年（9月入学）硕博连读课题组内遴选已经开始，欢迎尽早联系，可提前加入课题组学习（提供补助和GPU）</span>
+- <span style="color: red; font-weight: bold;">2026年（9月入学）硕博连读课题组内遴选已经开始，欢迎尽早联系，可提前加入课题组学习（提供补助和GPU）</span>
 
 
 ## 招生类型
