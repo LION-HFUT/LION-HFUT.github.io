@@ -4,7 +4,7 @@ layout: page
 permalink: /people/
 title: People
 description: Our LION includes 1 Professor, 2 Associate Professors, 1 Lecturer, 1 Postdoc, 7 PhD students, 19 Master students and 2 undergraduate students. We also closely collaborate with international senior researchers.
-categories: [Faculty, Postdoc, PhD, Master, Undergraduate, Research Collaborator]
+categories: [Faculty, Postdoc, PhD, Master, Undergraduate, Research Collaborator, Alumni]
 nav: true
 nav_order: 2
 
@@ -52,12 +52,12 @@ profiles:
     research: Segmentation
     join_date: 2020
     website: https://scholar.google.com/citations?hl=en&user=j_UjUUUAAAAJ
-  - category: PhD
-    image: fengxiang.png
+  - category: Alumni
+    # image: fengxiang.png
     name: Fengxiang Yang
-    position: Xiamen University (Co-Supervised)
-    research: Retrieval
-    join_date: 2020
+    position: PhD
+    research: Researcher in Vivo
+    join_date: 2020->2024
     website: https://flyingroastduck.github.io/
   - category: PhD
     image: mingxuan.png

@@ -4,7 +4,7 @@ layout: page
 permalink: /people/
 title: 成员
 description: 实验室包括教授1人、副教授2人、青年教师1人、博后1人、博士7人、硕士19人以及本科生2人，并与国内外知名学者长期合作。
-categories: [教师, 博后, 博士, 硕士, 本科, 国内外合作伙伴]
+categories: [教师, 博后, 博士, 硕士, 本科, 国内外合作伙伴, 毕业生]
 nav: true
 nav_order: 2
 
@@ -53,12 +53,12 @@ profiles:
     research: Segmentation
     join_date: 2020
     website: https://scholar.google.com/citations?hl=en&user=j_UjUUUAAAAJ
-  - category: 博士
-    image: fengxiang.png
+  - category: 毕业生
+    # image: fengxiang.png
     name: 杨丰祥
-    position: 联合培养
-    research: Retrieval
-    join_date: 2020
+    position: 博士
+    research: Vivo 研究员
+    join_date: 2020-2024
     website: https://flyingroastduck.github.io/
   - category: 博士
     image: mingxuan.png
