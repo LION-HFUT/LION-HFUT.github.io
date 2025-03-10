@@ -42,7 +42,8 @@ LION长期积极招募对原创科研有高度热情，有一定科研训练，�
 
     - Fengxiang Yang (一作发表 1 TPAMI, 1 CVPR, 1 ECCV, 3 AAAI, 1 TMM)
     - Mingxuan Liu (一作发表 1 ECCV, 1 ICLR)
-    - Dong Zhao (一作发表 1 CVPR, 1 NeurIPS)
+    - Dong Zhao (一作发表 2 CVPR, 1 NeurIPS)
+    - Zhenxing Zhang (一作发表 1 CVPR)
     - Haiyang Zheng (一作发表 1 ECCV, 1 NeurIPS)
     - Yuyang Zhao (一作发表 2CVPR, 1 ECCV, 1 IJCV, 1 NeurIPS)
     - Enrico Fini (一作发表 1 ICCV Oral)
