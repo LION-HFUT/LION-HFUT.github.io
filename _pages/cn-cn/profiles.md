@@ -102,12 +102,12 @@ profiles:
     position: 联合培养
     research: Novel Class Discovery
     join_date: 2021
-  - category: 硕士
-    image: weiwang.png
+  - category: 毕业生
+    # image: weiwang.png
     name: 汪炜
-    position: 联合培养
-    research: Domain Adaptation
-    join_date: 2021
+    position: 硕士
+    research: 攻读博士->密歇根大学
+    join_date: 2021-2024
   - category: 硕士
     image: zhenxing.png
     name: 张振兴

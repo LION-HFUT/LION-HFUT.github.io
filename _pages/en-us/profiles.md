@@ -101,12 +101,12 @@ profiles:
     position: Harbin Institute of Technology (Co-Supervised)
     research: Novel Class Discovery
     join_date: 2021
-  - category: Master
-    image: weiwang.png
+  - category: Alumni
+    # image: weiwang.png
     name: Wei Wang
-    position: Western University (Co-Supervised)
-    research: Domain Adaptation
-    join_date: 2021
+    position: Master
+    research: PhD at University of Michigan
+    join_date: 2021-2024
   - category: Master
     image: zhenxing.png
     name: Zhenxing Zhang
