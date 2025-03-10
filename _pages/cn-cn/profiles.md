@@ -35,6 +35,11 @@ profiles:
     name: 普楠
     research: 特伦托大学 (长期合作)
     website: https://tpcd.github.io/
+  - category: 博后
+    image: yimin.png
+    name: 刘一敏
+    # research: 特伦托大学 (长期合作)
+    website: https://scholar.google.com/citations?user=emaxcX8AAAAJ&hl=en
   - category: 教师
     image: wenjing.png
     name: 李文静

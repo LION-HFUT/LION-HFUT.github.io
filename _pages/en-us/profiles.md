@@ -40,6 +40,11 @@ profiles:
     position: Lecturer
     # research: University of Trento (Co-Supervised)
     website: https://scholar.google.com/citations?hl=en&user=uBjSytAAAAAJ
+  - category: Postdoc
+    image: yimin.png
+    name: Yimin Liu
+    # research: 特伦托大学 (长期合作)
+    website: https://scholar.google.com/citations?user=emaxcX8AAAAJ&hl=en
   - category: PhD
     image: dong.jpg
     name: Dong Zhao
