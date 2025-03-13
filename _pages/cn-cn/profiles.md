@@ -50,8 +50,8 @@ profiles:
     image: dong.jpg
     name: 赵栋
     position: 特伦托大学 (长期合作)
-    research: Segmentation
-    join_date: 2020
+    # research: Segmentation
+    # join_date: 2020
     website: https://scholar.google.com/citations?hl=en&user=j_UjUUUAAAAJ
   - category: 毕业生
     # image: fengxiang.png

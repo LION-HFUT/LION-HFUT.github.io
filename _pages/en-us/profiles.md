@@ -49,8 +49,8 @@ profiles:
     image: dong.jpg
     name: Dong Zhao
     position: University of Trento (Co-Supervised)
-    research: Segmentation
-    join_date: 2020
+    # research: Segmentation
+    # join_date: 2020
     website: https://scholar.google.com/citations?hl=en&user=j_UjUUUAAAAJ
   - category: Alumni
     # image: fengxiang.png
