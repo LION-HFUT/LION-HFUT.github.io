@@ -45,7 +45,7 @@ profiles:
     name: Yimin Liu
     # research: 特伦托大学 (长期合作)
     website: https://scholar.google.com/citations?user=emaxcX8AAAAJ&hl=en
-  - category: PhD
+  - category: Postdoc
     image: dong.jpg
     name: Dong Zhao
     position: University of Trento (Co-Supervised)
@@ -65,12 +65,12 @@ profiles:
     position: University of Trento (Co-Supervised)
     research: Open-Set
     join_date: 2022
-  - category: PhD
-    image: pic_boy.png
-    name: Lei Shen
-    position: Hong Kong Baptist University (Co-Supervised)
-    research: Federated Learning
-    join_date: 2022
+  # - category: PhD
+  #   image: pic_boy.png
+  #  name: Lei Shen
+  #  position: Hong Kong Baptist University (Co-Supervised)
+  #  research: Federated Learning
+  #  join_date: 2022
   - category: PhD
     image: yan.png
     name: Yan Zhang
@@ -89,18 +89,18 @@ profiles:
     position: University of Nottingham (Co-Supervised)
     research: Medical Imaging
     join_date: 2021
-  - category: Master
+  - category: PhD
     image: chentaocao.jpg
     name: Chentao Cao
     position: Hong Kong Baptist University (Co-Supervised)
     research: OOD Detection
-    join_date: 2021
-  - category: Master
+    join_date: 2024
+  - category: PhD
     image: haiyang.png
     name: Haiyang Zheng
-    position: Harbin Institute of Technology (Co-Supervised)
+    position: University of Trento (Co-Supervised)
     research: Novel Class Discovery
-    join_date: 2021
+    join_date: 2024
   - category: Alumni
     # image: weiwang.png
     name: Wei Wang

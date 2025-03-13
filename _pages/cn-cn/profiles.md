@@ -46,10 +46,10 @@ profiles:
     position: 青年教师
     # research: 诺丁汉大学 （长期合作）
     website: https://scholar.google.com/citations?hl=en&user=uBjSytAAAAAJ
-  - category: 博士
+  - category: 博后
     image: dong.jpg
     name: 赵栋
-    position: 联合培养
+    position: 特伦托大学 (长期合作)
     research: Segmentation
     join_date: 2020
     website: https://scholar.google.com/citations?hl=en&user=j_UjUUUAAAAJ
@@ -66,12 +66,12 @@ profiles:
     position: 联合培养
     research: Open-Set
     join_date: 2022
-  - category: 博士
-    image: pic_boy.png
-    name: 沈磊
-    position: 联合培养
-    research: Federated Learning
-    join_date: 2022
+  # - category: 博士
+  #  image: pic_boy.png
+  #  name: 沈磊
+  #  position: 联合培养
+  #  research: Federated Learning
+  #  join_date: 2022
   - category: 博士
     image: yan.png
     name: 张研
@@ -90,18 +90,18 @@ profiles:
     position: 联合培养
     research: Medical Imaging
     join_date: 2024
-  - category: 硕士
+  - category: 博士
     image: chentaocao.jpg
     name: 曹晨涛
     position: 联合培养
     research: OOD Detection
     join_date: 2021
-  - category: 硕士
+  - category: 博士
     image: haiyang.png
     name: 郑海阳
     position: 联合培养
     research: Novel Class Discovery
-    join_date: 2021
+    join_date: 2024
   - category: 毕业生
     # image: weiwang.png
     name: 汪炜
