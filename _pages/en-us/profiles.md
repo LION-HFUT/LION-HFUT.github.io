@@ -203,26 +203,25 @@ profiles:
     # position: 保研
     research: --
     join_date: 2025
-
-  - category: 硕士
+  - category: Master
     image: wuhao.png
     name: Hao Wu
     # position: 保研
     research: --
     join_date: 2025
-  - category: 硕士
+  - category: Master
     image: lixueyi.png
     name: Xueyi Li
     # position: 保研
     research: --
     join_date: 2025
-  - category: 硕士
+  - category: Master
     image: zhangna.png
     name: Na Zhang
     # position: 保研
     research: --
     join_date: 2025
-  - category: 硕士
+  - category: Master
     image: zhengchenxin.png
     name: Chenxin Zheng
     # position: 保研
