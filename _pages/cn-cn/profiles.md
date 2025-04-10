@@ -204,6 +204,30 @@ profiles:
     # position: 保研
     research: --
     join_date: 2025
+  - category: 硕士
+    image: wuhao.png
+    name: 吴昊
+    # position: 保研
+    research: --
+    join_date: 2025
+  - category: 硕士
+    image: lixueyi.png
+    name: 李雪怡
+    # position: 保研
+    research: --
+    join_date: 2025
+  - category: 硕士
+    image: zhangna.png
+    name: 张娜
+    # position: 保研
+    research: --
+    join_date: 2025
+  - category: 硕士
+    image: zhengchenxin.png
+    name: 郑晨昕
+    # position: 保研
+    research: --
+    join_date: 2025
   - category: 本科
     image: jinjie.png
     name: 沈锦杰
@@ -213,6 +237,30 @@ profiles:
   - category: 本科
     image: junxi.png
     name: 王俊熙
+    # position: 保研
+    research: --
+    # join_date: 2025 Fall
+  - category: 本科
+    image: xingmingyu.png
+    name: 邢明煜
+    # position: 保研
+    research: --
+    # join_date: 2025 Fall
+  - category: 本科
+    image: geyaoyan.png
+    name: 戈耀妍
+    # position: 保研
+    research: --
+    # join_date: 2025 Fall
+  - category: 本科
+    image: quyiyuan.png
+    name: 瞿一圆
+    # position: 保研
+    research: --
+    # join_date: 2025 Fall
+  - category: 本科
+    image: huwenbo.png
+    name: 胡文博
     # position: 保研
     research: --
     # join_date: 2025 Fall

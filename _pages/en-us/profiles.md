@@ -203,6 +203,31 @@ profiles:
     # position: 保研
     research: --
     join_date: 2025
+
+  - category: 硕士
+    image: wuhao.png
+    name: Hao Wu
+    # position: 保研
+    research: --
+    join_date: 2025
+  - category: 硕士
+    image: lixueyi.png
+    name: Xueyi Li
+    # position: 保研
+    research: --
+    join_date: 2025
+  - category: 硕士
+    image: zhangna.png
+    name: Na Zhang
+    # position: 保研
+    research: --
+    join_date: 2025
+  - category: 硕士
+    image: zhengchenxin.png
+    name: Chenxin Zheng
+    # position: 保研
+    research: --
+    join_date: 2025
   - category: Undergraduate
     image: jinjie.png
     name: Jinjie Shen
@@ -215,6 +240,30 @@ profiles:
     # position: 保研
     research: --
     # join_date: 2025
+  - category: Undergraduate
+    image: xingmingyu.png
+    name: Mingyu Xing
+    # position: 保研
+    research: --
+    # join_date: 2025 Fall
+  - category: Undergraduate
+    image: geyaoyan.png
+    name: Yaoyan Ge
+    # position: 保研
+    research: --
+    # join_date: 2025 Fall
+  - category: Undergraduate
+    image: quyiyuan.png
+    name: Yiyuan Qu
+    # position: 保研
+    research: --
+    # join_date: 2025 Fall
+  - category: Undergraduate
+    image: huwenbo.png
+    name: Wenbo Hu
+    # position: 保研
+    research: --
+    # join_date: 2025 Fall
   - category: Research Collaborator
     image: nicu.png
     name: Nicu Sebe
