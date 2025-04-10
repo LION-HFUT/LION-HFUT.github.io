@@ -23,3 +23,5 @@ social: false # includes social icons at the bottom of the page
 <div style="text-align: center;">
 <img title="" alt="" src="/assets/img/research_overview.png" width="1350px">
 </div>
+
+{% include gallery.html %}
