@@ -55,9 +55,9 @@ profiles:
   - category: Alumni
     # image: fengxiang.png
     name: Fengxiang Yang
-    position: PhD
-    research: Researcher in Vivo
-    join_date: 2020->2024
+    position: PhD@LION
+    research: Now: Researcher@Vivo
+    join_date: 2020-2024
     website: https://flyingroastduck.github.io/
   - category: PhD
     image: mingxuan.png
@@ -104,8 +104,8 @@ profiles:
   - category: Alumni
     # image: weiwang.png
     name: Wei Wang
-    position: Master
-    research: PhD at University of Michigan
+    position: Master@LION
+    research: Now: PhD@University of Michigan
     join_date: 2021-2024
   - category: Master
     image: zhenxing.png

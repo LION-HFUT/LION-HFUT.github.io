@@ -56,8 +56,8 @@ profiles:
   - category: 毕业生
     # image: fengxiang.png
     name: 杨丰祥
-    position: 博士
-    research: Vivo 研究员
+    position: 博士@LION
+    research: Now:研究员@Vivo
     join_date: 2020-2024
     website: https://flyingroastduck.github.io/
   - category: 博士
@@ -105,8 +105,8 @@ profiles:
   - category: 毕业生
     # image: weiwang.png
     name: 汪炜
-    position: 硕士
-    research: 攻读博士->密歇根大学
+    position: 硕士@LION
+    research: Now:博士@密歇根大学
     join_date: 2021-2024
   - category: 硕士
     image: zhenxing.png
