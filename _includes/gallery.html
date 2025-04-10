@@ -1,24 +1,17 @@
 <div class="gallery-container">
   <div class="gallery">
-    <!-- 在此处添加您的图片 -->
+    <!-- 原始图片 -->
     <img src="assets/img/logo.jpg" alt="Image 1">
     <img src="assets/img/logo.jpg" alt="Image 2">
+    <img src="assets/img/logo.jpg" alt="Image 3">
+    <img src="assets/img/logo.jpg" alt="Image 4">
+    <img src="assets/img/logo.jpg" alt="Image 5">
+    <!-- 克隆的图片，用于无缝循环 -->
+    <img src="assets/img/logo.jpg" alt="Image 1">
     <img src="assets/img/logo.jpg" alt="Image 2">
-    <img src="assets/img/logo.jpg" alt="Image 2">
-    <img src="assets/img/logo.jpg" alt="Image 2">
-    <img src="assets/img/logo.jpg" alt="Image 2">
-    <img src="assets/img/logo.jpg" alt="Image 2">
-    <img src="assets/img/logo.jpg" alt="Image 2">
-    <img src="assets/img/logo.jpg" alt="Image 2">
-    <img src="assets/img/logo.jpg" alt="Image 2">
-    <img src="assets/img/logo.jpg" alt="Image 2">
-    <img src="assets/img/logo.jpg" alt="Image 2">
-    <img src="assets/img/logo.jpg" alt="Image 2">
-    <img src="assets/img/logo.jpg" alt="Image 2">
-    <img src="assets/img/logo.jpg" alt="Image 2">
-    <img src="assets/img/logo.jpg" alt="Image 2">
-    <img src="assets/img/logo.jpg" alt="Image 2">
-    <!-- 添加更多图片 -->
+    <img src="assets/img/logo.jpg" alt="Image 3">
+    <img src="assets/img/logo.jpg" alt="Image 4">
+    <img src="assets/img/logo.jpg" alt="Image 5">
   </div>
 </div>
 
@@ -29,7 +22,7 @@
       transform: translateX(0);
     }
     100% {
-      transform: translateX(-100%);
+      transform: translateX(-50%);
     }
   }
 
@@ -45,7 +38,7 @@
   .gallery {
     display: inline-block;
     white-space: nowrap;
-    animation: scroll 10s linear infinite;
+    animation: scroll 20s linear infinite;
   }
 
   /* 图片样式 */
@@ -61,4 +54,3 @@
     animation-play-state: paused;
   }
 </style>
-
