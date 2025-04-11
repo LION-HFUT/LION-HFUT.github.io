@@ -1,11 +1,23 @@
 <div class="gallery-container">
   <div class="gallery">
     <!-- 原始图片 -->
-    <img src="/assets/img/img_wall_1.png" alt="Image 1">
-    <img src="/assets/img/img_wall_2.png" alt="Image 2">
+    <div class="photo-item">
+      <img src="/assets/img/img_wall_1.png" alt="Image 1">
+      <div class="caption">课题组小聚</div>
+    </div>
+    <div class="photo-item">
+      <img src="/assets/img/img_wall_2.png" alt="Image 2">
+      <div class="caption">课题组小聚</div>
+    </div>
     <!-- 克隆的图片，用于无缝循环 -->
-    <img src="/assets/img/img_wall_1.png" alt="Image 1">
-    <img src="/assets/img/img_wall_2.png" alt="Image 2">
+    <div class="photo-item">
+      <img src="/assets/img/img_wall_1.png" alt="Image 1">
+      <div class="caption">课题组小聚</div>
+    </div>
+    <div class="photo-item">
+      <img src="/assets/img/img_wall_2.png" alt="Image 2">
+      <div class="caption">课题组小聚</div>
+    </div>
   </div>
 </div>
 
@@ -43,6 +55,11 @@
     height: auto;
     margin-right: 30px;
     display: inline-block;
+  }
+
+  /* 鼠标悬停时的放大效果 */
+  .gallery img:hover {
+    transform: scale(1.5); /* 放大 1.1 倍 */
   }
 
   /* 鼠标悬停时暂停动画 */
