@@ -3,7 +3,7 @@ page_id: profiles
 layout: page
 permalink: /people/
 title: People
-description: Our LION includes 1 Professor, 3 Associate Professors, 1 Lecturer, 1 Postdoc, 7 PhD students, 19 Master students and 2 undergraduate students. We also closely collaborate with international senior researchers.
+description: Our LION includes 1 Professor, 2 Associate Professors, 1 Lecturer, 1 Postdoc, 7 PhD students, 19 Master students and 2 undergraduate students. We also closely collaborate with international senior researchers.
 categories: [Faculty, Postdoc, PhD, Master, Undergraduate, Research Collaborator, Alumni]
 nav: true
 nav_order: 2
@@ -12,21 +12,21 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - category: Faculty
+    image: zhun.png
+    position: Professor
+    # research: 国家级青年人才
+    name: Zhun Zhong
+    website: https://zhunzhong.site
+  - category: Faculty
     image: lechao.png
     position: Associate Professor
-    # research: 黄山学者学术骨干
+    #research: 黄山学者学术骨干
     name: Lechao Cheng
     website: https://liygcheng.github.io/home/
   - category: Faculty
-    image: huitianrui.png
-    position: Associate Professor
-    # research: 黄山学者学术骨干
-    name: Tianrui Hui
-    website: https://ryanhtr.github.io/
-  - category: Faculty
     image: yaxiong.jpg
     position: Associate Professor
-    # research: 黄山学者学术骨干
+    #research: 黄山学者学术骨干
     name: Yaxiong Wang
     website: https://scholar.google.com/citations?user=lDChiR4AAAAJ&hl=zh-CN
   - category: Postdoc
@@ -40,12 +40,6 @@ profiles:
     position: Lecturer
     # research: University of Trento (Co-Supervised)
     website: https://scholar.google.com/citations?hl=en&user=uBjSytAAAAAJ
-  - category: Faculty
-    image: zhun.png
-    position: Professor
-    # research: 国家级青年人才
-    name: Zhun Zhong
-    website: https://zhunzhong.site
   - category: Postdoc
     image: yimin.png
     name: Yimin Liu
