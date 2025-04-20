@@ -111,7 +111,7 @@ profiles:
     # image: weiwang.png
     name: Wei Wang
     position: Master@LION
-    research: Now-PhD-University of Michigan
+    research: "Now: PhD@University of Michigan"
     join_date: 2021-2024
   - category: Master
     image: zhenxing.png
