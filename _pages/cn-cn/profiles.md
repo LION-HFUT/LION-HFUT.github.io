@@ -12,18 +12,17 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - category: 教师
-    image: zhun.png
-    position: 教授
-    research: 国家级青年人才
-    # join_date: 即将加入，正在招生
-    name: 钟准
-    website: https://zhunzhong.site
-  - category: 教师
     image: lechao.png
     position: 副教授
     research: 黄山学者学术骨干
     name: 程乐超
     website: https://liygcheng.github.io/home/
+  - category: 教师
+    image: huitianrui.png
+    position: 副教授
+    research: 黄山学者学术骨干
+    name: 惠天瑞
+    website: https://ryanhtr.github.io/
   - category: 教师
     image: yaxiong.jpg
     position: 副教授
@@ -46,6 +45,13 @@ profiles:
     position: 青年教师
     # research: 诺丁汉大学 （长期合作）
     website: https://scholar.google.com/citations?hl=en&user=uBjSytAAAAAJ
+  - category: 教师
+    image: zhun.png
+    position: 教授
+    research: 国家级青年人才
+    # join_date: 即将加入，正在招生
+    name: 钟准
+    website: https://zhunzhong.site
   - category: 博后
     image: dong.jpg
     name: 赵栋
