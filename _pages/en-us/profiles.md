@@ -61,8 +61,8 @@ profiles:
   - category: Alumni
     # image: fengxiang.png
     name: Fengxiang Yang
-    position: PhD@LION
-    research: Now-Researcher-Vivo
+    position: PhD at LION
+    research: Researcher at Vivo
     join_date: 2020-2024
     website: https://flyingroastduck.github.io/
   - category: PhD
