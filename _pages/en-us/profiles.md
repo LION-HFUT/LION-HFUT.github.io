@@ -1,7 +1,7 @@
 ---
 page_id: profiles
 layout: page
-permalink: /people1/
+permalink: /people/
 title: People
 description: Our LION includes 1 Professor, 3 Associate Professors, 1 Lecturer, 1 Postdoc, 7 PhD students, 19 Master students and 2 undergraduate students. We also closely collaborate with international senior researchers.
 categories: [Faculty, Postdoc, PhD, Master, Undergraduate, Research Collaborator, Alumni]
@@ -62,7 +62,7 @@ profiles:
     # image: fengxiang.png
     name: Fengxiang Yang
     position: PhD@LION
-    research: Now: Researcher@Vivo
+    research: Now-Researcher-Vivo
     join_date: 2020-2024
     website: https://flyingroastduck.github.io/
   - category: PhD
@@ -111,7 +111,7 @@ profiles:
     # image: weiwang.png
     name: Wei Wang
     position: Master@LION
-    research: Now: PhD@University of Michigan
+    research: Now-PhD-University of Michigan
     join_date: 2021-2024
   - category: Master
     image: zhenxing.png
