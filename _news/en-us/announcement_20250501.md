@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted by ICML 2025. Congrats to Mingyu (Undergraduate  Student).
+Two papers are accepted by ICML 2025. Congrats to Prof. Cheng and Mingyu (Undergraduate  Student).

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted by IJCAI 2025. Congrats to Yan (PhD Student).
+Three papers are accepted by IJCAI 2025. Congrats to Prof. Cheng and Yan (PhD Student).
