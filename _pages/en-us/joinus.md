@@ -97,4 +97,6 @@ LION长期积极招募对原创科研有高度热情，有一定科研训练，�
 
 * 王亚雄 Email: wangyx15@stu.xjtu.edu.cn Wechat: keep-fit-bear
 
+* 惠天瑞 Email: huitr@hfut.edu.cn Wechat: huitr2020
+
 * 李文静 Email: wjli007@mail.ustc.edu.cn Wechat: 18206181546
