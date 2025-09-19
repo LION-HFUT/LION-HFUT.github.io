@@ -79,6 +79,30 @@ profiles:
   #  research: Federated Learning
   #  join_date: 2022
   - category: 博士
+    image: zhangpeng.png
+    name: 张鹏
+    # position: Co-Supervised
+    # research: Video Recognition
+    join_date: 2025
+  - category: 博士
+    image: liuzerun.png
+    name: 刘泽润
+    # position: Co-Supervised
+    # research: Video Recognition
+    join_date: 2025
+  - category: 博士
+    image: chenruize.png
+    name: 陈睿泽
+    # position: Co-Supervised
+    # research: Video Recognition
+    join_date: 2025
+  - category: 博士
+    image: lilan.png
+    name: 李澜
+    # position: Co-Supervised
+    # research: Video Recognition
+    join_date: 2025
+  - category: 博士
     image: yan.png
     name: 张研
     # position: 硕博连读
