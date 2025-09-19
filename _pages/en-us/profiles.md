@@ -84,6 +84,30 @@ profiles:
     research: Video Recognition
     join_date: 2023
   - category: PhD
+    image: zhangpeng.png
+    name: Peng Zhang
+    # position: Co-Supervised
+    # research: Video Recognition
+    join_date: 2025
+  - category: PhD
+    image: liuzerun.png
+    name: Zerun Liu
+    # position: Co-Supervised
+    # research: Video Recognition
+    join_date: 2025
+  - category: PhD
+    image: chenruize.png
+    name: Ruize Chen
+    # position: Co-Supervised
+    # research: Video Recognition
+    join_date: 2025
+  - category: PhD
+    image: lilan.png
+    name: Lan Li
+    # position: Co-Supervised
+    # research: Video Recognition
+    join_date: 2025
+  - category: PhD
     image: tengfei.png
     name: Tengfei Liang
     position: Beijing Jiaotong University (Co-Supervised)
@@ -233,7 +257,7 @@ profiles:
     # position: 保研
     research: --
     join_date: 2025
-  - category: Undergraduate
+  - category: Alumni
     image: jinjie.png
     name: Jinjie Shen
     position: Intern at LION
