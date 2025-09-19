@@ -259,7 +259,7 @@ profiles:
     research: --
     join_date: 2025
   - category: 毕业生
-    image: jinjie.png
+    # image: jinjie.png
     name: 沈锦杰
     position: 本科 at LION
     research: 硕士 at 武大

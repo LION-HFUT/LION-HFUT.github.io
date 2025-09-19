@@ -258,7 +258,7 @@ profiles:
     research: --
     join_date: 2025
   - category: Alumni
-    image: jinjie.png
+    # image: jinjie.png
     name: Jinjie Shen
     position: Intern at LION
     research: Master at Wuhan University
