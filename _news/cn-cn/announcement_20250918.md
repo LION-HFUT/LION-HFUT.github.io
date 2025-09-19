@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-实验室一篇论文被TPAMI接收。
+实验室一篇论文被TPAMI接收!
