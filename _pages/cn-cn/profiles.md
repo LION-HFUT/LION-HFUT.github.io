@@ -112,7 +112,7 @@ profiles:
     # image: weiwang.png
     name: 汪炜
     position: 硕士 at LION
-    research: 博士 at 密歇根大学
+    research: 博士 at 宾大
     join_date: 2021-2024
   - category: 硕士
     image: zhenxing.png
@@ -120,7 +120,7 @@ profiles:
     # position: 保研
     research: --
     join_date: 2023
-  - category: 硕士
+  - category: 博士
     image: wangjing.png
     name: 王兢
     # position: 保研
@@ -132,7 +132,7 @@ profiles:
     # position: 保研
     research: --
     join_date: 2024
-  - category: 硕士
+  - category: 博士
     image: lihaiyang.png
     name: 李海洋
     # position: 保研
@@ -234,12 +234,12 @@ profiles:
     # position: 保研
     research: --
     join_date: 2025
-  - category: 本科
+  - category: 毕业生
     image: jinjie.png
     name: 沈锦杰
-    # position: 保研
-    research: --
-    # join_date: 2025 Fall
+    position: 本科 at LION
+    research: 硕士 at 武大
+    join_date: 2024-2025
   - category: 本科
     image: junxi.png
     name: 王俊熙

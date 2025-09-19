@@ -111,7 +111,7 @@ profiles:
     # image: weiwang.png
     name: Wei Wang
     position: Master at LION
-    research: PhD at University of Michigan
+    research: PhD at University of Pennsylvania
     join_date: 2021-2024
   - category: Master
     image: zhenxing.png
@@ -119,7 +119,7 @@ profiles:
     position: Co-Supervised
     research: --
     join_date: 2023
-  - category: Master
+  - category: PhD
     image: wangjing.png
     name: Jing Wang
     # position: 保研
@@ -131,7 +131,7 @@ profiles:
     # position: 保研
     research: --
     join_date: 2024
-  - category: Master
+  - category: PhD
     image: lihaiyang.png
     name: Haiyang Li
     # position: 保研
@@ -236,9 +236,9 @@ profiles:
   - category: Undergraduate
     image: jinjie.png
     name: Jinjie Shen
-    # position: 保研
-    research: --
-    # join_date: 2025
+    position: Intern at LION
+    research: Master at Wuhan University
+    join_date: 2024-2025
   - category: Undergraduate
     image: junxi.png
     name: Junxi Wang
