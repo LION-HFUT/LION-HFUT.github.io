@@ -35,6 +35,11 @@ profiles:
     research: University of Trento (Co-Supervised)
     website: https://tpcd.github.io/
   - category: Faculty
+    image: zangqi.png
+    name: Qi Zang
+    position: Lecturer
+    website: https://scholar.google.com/citations?user=2bmo74wAAAAJ&hl=zh-CN
+  - category: Faculty
     image: wenjing.png
     name: Wenjing Li
     position: Lecturer

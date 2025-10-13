@@ -40,6 +40,11 @@ profiles:
     # research: 特伦托大学 (长期合作)
     website: https://scholar.google.com/citations?user=emaxcX8AAAAJ&hl=en
   - category: 教师
+    image: zangqi.png
+    name: 臧琪
+    position: 青年教师
+    website: https://scholar.google.com/citations?user=2bmo74wAAAAJ&hl=zh-CN
+  - category: 教师
     image: wenjing.png
     name: 李文静
     position: 青年教师
