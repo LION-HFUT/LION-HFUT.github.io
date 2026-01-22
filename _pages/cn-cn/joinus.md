@@ -95,7 +95,7 @@ LION长期积极招募对原创科研有高度热情，有一定科研训练，�
 
 * 钟准 Email: zhunzhong007@gmail.com Wechat: 15759270397
 
-* 普楠 Email: zhunzhong007@gmail.com Wchat: goodjobpeter
+* 普楠 Email: n.pu@outlook.com Wchat: goodjobpeter
 
 * 程乐超 Email: chenglc@hfut.edu.cn Wechat: liygcheng
 
