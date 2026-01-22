@@ -34,7 +34,7 @@ profiles:
     position: 教授
     research: 国家级青年人才
     name: 普楠
-    # research: 特伦托大学 (长期合作)
+    # research: 特伦托大学
     website: https://tpcd.github.io/
   - category: 博后
     image: yimin.png
