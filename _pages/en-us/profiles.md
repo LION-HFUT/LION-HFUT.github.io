@@ -29,10 +29,11 @@ profiles:
     # research: 黄山学者学术骨干
     name: Yaxiong Wang
     website: https://scholar.google.com/citations?user=lDChiR4AAAAJ&hl=zh-CN
-  - category: Postdoc
+  - category: Faculty
     image: nan.png
     name: Nan Pu
-    research: University of Trento (Co-Supervised)
+    # research: University of Trento (Co-Supervised)
+    position: Professor
     website: https://tpcd.github.io/
   - category: Faculty
     image: zangqi.png

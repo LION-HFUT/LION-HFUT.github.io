@@ -29,10 +29,12 @@ profiles:
     research: 黄山学者学术骨干
     name: 王亚雄
     website: https://scholar.google.com/citations?user=lDChiR4AAAAJ&hl=zh-CN
-  - category: 博后
+  - category: 教师
     image: nan.png
+    position: 教授
+    research: 国家级青年人才
     name: 普楠
-    research: 特伦托大学 (长期合作)
+    # research: 特伦托大学 (长期合作)
     website: https://tpcd.github.io/
   - category: 博后
     image: yimin.png
