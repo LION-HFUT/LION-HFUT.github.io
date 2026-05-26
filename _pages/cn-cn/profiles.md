@@ -283,24 +283,6 @@ profiles:
     # position: 保研
     research: --
     # join_date: 2025 Fall
-  - category: 本科
-    image: geyaoyan.png
-    name: 戈耀妍
-    # position: 保研
-    research: --
-    # join_date: 2025 Fall
-  - category: 本科
-    image: quyiyuan.png
-    name: 瞿一圆
-    # position: 保研
-    research: --
-    # join_date: 2025 Fall
-  - category: 本科
-    image: huwenbo.png
-    name: 胡文博
-    # position: 保研
-    research: --
-    # join_date: 2025 Fall
   - category: 国内外合作伙伴
     image: nicu.png
     name: Nicu Sebe

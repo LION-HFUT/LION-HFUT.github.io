@@ -281,24 +281,6 @@ profiles:
     # position: 保研
     research: --
     # join_date: 2025 Fall
-  - category: Undergraduate
-    image: geyaoyan.png
-    name: Yaoyan Ge
-    # position: 保研
-    research: --
-    # join_date: 2025 Fall
-  - category: Undergraduate
-    image: quyiyuan.png
-    name: Yiyuan Qu
-    # position: 保研
-    research: --
-    # join_date: 2025 Fall
-  - category: Undergraduate
-    image: huwenbo.png
-    name: Wenbo Hu
-    # position: 保研
-    research: --
-    # join_date: 2025 Fall
   - category: Research Collaborator
     image: nicu.png
     name: Nicu Sebe

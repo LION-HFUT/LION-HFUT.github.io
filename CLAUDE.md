@@ -249,24 +249,21 @@ git push origin main
 
 ---
 
-## 本地预览（Docker）
+## 本地预览
 
-本项目使用 Docker 进行本地预览，无需安装 Ruby/Jekyll/ImageMagick。
-
-**前提**：已安装 [Docker Desktop for Mac（Apple Chip）](https://www.docker.com/products/docker-desktop/)，且 Docker 处于运行状态。
+**环境**：Ruby 3.2.6（rbenv）、ImageMagick（Homebrew）、Jupyter（pip3）—— 均已安装完毕。
 
 ```bash
 cd /Users/sky/LION-HFUT.github.io
 
-# 首次运行：拉取镜像（约 400MB，仅需一次）
-docker compose pull
-
-# 启动本地预览（之后每次用这条）
-docker compose up
+# 启动本地预览（每次用这条）
+LANG=en_US.UTF-8 LC_ALL=en_US.UTF-8 \
+  ~/.rbenv/versions/3.2.6/bin/bundle exec \
+  ~/.rbenv/versions/3.2.6/bin/jekyll serve --livereload
 ```
 
-出现 `Server running... port 8080` 后，浏览器打开 **http://localhost:8080**。
+启动后浏览器打开 **http://127.0.0.1:4000**，修改文件后页面**自动热更新**。
 
-- 修改文件后页面**自动热更新**，无需重启
-- 停止服务：`Ctrl+C`，然后 `docker compose down`
-- 再次启动：直接 `docker compose up`（无需重新 pull）
+停止服务：`Ctrl+C`。
+
+> 首次启动约需 30-60 秒（ImageMagick 生成 WebP 图片缓存），之后再启动会快很多。
