@@ -3,7 +3,7 @@ page_id: profiles
 layout: page
 permalink: /people/
 title: 成员
-description: 实验室包括教授2人、副教授3人、青年教师2人、博后2人、博士8人、硕士24人以及本科生2人，并与国内外知名学者长期合作。
+description: 实验室包括教授2人、副教授3人、青年教师2人、博后2人、博士9人、硕士24人以及本科生2人，并与国内外知名学者长期合作。
 categories: [教师, 博后, 博士, 硕士, 本科, 国内外合作伙伴, 毕业生]
 nav: true
 nav_order: 2
@@ -293,6 +293,11 @@ profiles:
   - category: 硕士
     image: zhangyajun.jpg
     name: 张亚军
+    research: "-"
+    join_date: 2026
+  - category: 博士
+    image: yangxuemei.jpg
+    name: 杨雪梅
     research: "-"
     join_date: 2026
   - category: 毕业生
