@@ -3,7 +3,7 @@ page_id: profiles
 layout: page
 permalink: /people/
 title: People
-description: Our LION includes 2 Professors, 3 Associate Professors, 2 Lecturers, 2 Postdocs, 7 PhD students, 19 Master students and 2 undergraduate students. We also closely collaborate with international senior researchers.
+description: Our LION includes 2 Professors, 3 Associate Professors, 2 Lecturers, 2 Postdocs, 8 PhD students, 23 Master students and 2 undergraduate students. We also closely collaborate with international senior researchers.
 categories: [Faculty, Postdoc, PhD, Master, Undergraduate, Research Collaborator, Alumni]
 nav: true
 nav_order: 2
@@ -263,6 +263,31 @@ profiles:
     # position: 保研
     research: --
     join_date: 2025
+  - category: Master
+    image: dingzijie.jpg
+    name: Zijie Ding
+    research: "-"
+    join_date: 2026
+  - category: PhD
+    image: yangchenmin.jpg
+    name: Chenmin Yang
+    research: "-"
+    join_date: 2026
+  - category: Master
+    image: zhengluwen.jpg
+    name: Luwen Zheng
+    research: "-"
+    join_date: 2026
+  - category: Master
+    image: zhaozeyang.jpg
+    name: Zeyang Zhao
+    research: "-"
+    join_date: 2026
+  - category: Master
+    image: yangxuan.jpg
+    name: Xuan Yang
+    research: "-"
+    join_date: 2026
   - category: Alumni
     # image: jinjie.png
     name: Jinjie Shen

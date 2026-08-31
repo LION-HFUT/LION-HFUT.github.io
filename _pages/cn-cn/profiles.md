@@ -3,7 +3,7 @@ page_id: profiles
 layout: page
 permalink: /people/
 title: 成员
-description: 实验室包括教授2人、副教授3人、青年教师2人、博后2人、博士7人、硕士19人以及本科生2人，并与国内外知名学者长期合作。
+description: 实验室包括教授2人、副教授3人、青年教师2人、博后2人、博士8人、硕士23人以及本科生2人，并与国内外知名学者长期合作。
 categories: [教师, 博后, 博士, 硕士, 本科, 国内外合作伙伴, 毕业生]
 nav: true
 nav_order: 2
@@ -265,6 +265,31 @@ profiles:
     # position: 保研
     research: --
     join_date: 2025
+  - category: 硕士
+    image: dingzijie.jpg
+    name: 丁子杰
+    research: "-"
+    join_date: 2026
+  - category: 博士
+    image: yangchenmin.jpg
+    name: 杨陈敏
+    research: "-"
+    join_date: 2026
+  - category: 硕士
+    image: zhengluwen.jpg
+    name: 郑璐汶
+    research: "-"
+    join_date: 2026
+  - category: 硕士
+    image: zhaozeyang.jpg
+    name: 赵泽洋
+    research: "-"
+    join_date: 2026
+  - category: 硕士
+    image: yangxuan.jpg
+    name: 杨烜
+    research: "-"
+    join_date: 2026
   - category: 毕业生
     # image: jinjie.png
     name: 沈锦杰
