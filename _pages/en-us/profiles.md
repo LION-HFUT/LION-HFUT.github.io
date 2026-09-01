@@ -3,7 +3,7 @@ page_id: profiles
 layout: page
 permalink: /people/
 title: People
-description: Our LION includes 2 Professors, 3 Associate Professors, 2 Lecturers, 2 Postdocs, 11 PhD students, 32 Master students and 2 undergraduate students. We also closely collaborate with international senior researchers.
+description: Our LION includes 2 Professors, 3 Associate Professors, 2 Lecturers, 2 Postdocs, 14 PhD students, 40 Master students and 2 undergraduate students. We also closely collaborate with international senior researchers.
 categories: [Faculty, Postdoc, PhD, Master, Undergraduate, Research Collaborator, Alumni]
 nav: true
 nav_order: 2
@@ -346,6 +346,61 @@ profiles:
   - category: Master
     image: lichuanlong.jpg
     name: Chuanlong Li
+    research: "-"
+    join_date: 2026
+  - category: PhD
+    image: zhangyan2026.jpg
+    name: Yan Zhang
+    research: "-"
+    join_date: 2026
+  - category: Master
+    image: sunyachao.jpg
+    name: Yachao Sun
+    research: "-"
+    join_date: 2026
+  - category: PhD
+    image: hejielong.jpg
+    name: Jielong He
+    research: "-"
+    join_date: 2026
+  - category: Master
+    image: yuanyuqin.jpg
+    name: Yuqin Yuan
+    research: "-"
+    join_date: 2026
+  - category: PhD
+    image: liuyuange.jpg
+    name: Yuange Liu
+    research: "-"
+    join_date: 2026
+  - category: Master
+    image: chenzhuo.jpg
+    name: Zhuo Chen
+    research: "-"
+    join_date: 2026
+  - category: Master
+    image: hezhibo.jpg
+    name: Zhibo He
+    research: "-"
+    join_date: 2026
+  - category: Master
+    image: taoshuo.jpg
+    name: Shuo Tao
+    research: "-"
+    join_date: 2026
+  - category: Master
+    image: gaozini.jpg
+    name: Zini Gao
+    research: "-"
+    join_date: 2026
+  - category: Master
+    image: wangyanpu.jpg
+    name: Yanpu Wang
+    research: "-"
+    join_date: 2026
+  - category: Master
+    image: zhuxiaodong.jpg
+    name: Xiaodong Zhu
     research: "-"
     join_date: 2026
   - category: Alumni

@@ -3,7 +3,7 @@ page_id: profiles
 layout: page
 permalink: /people/
 title: 成员
-description: 实验室包括教授2人、副教授3人、青年教师2人、博后2人、博士11人、硕士32人以及本科生2人，并与国内外知名学者长期合作。
+description: 实验室包括教授2人、副教授3人、青年教师2人、博后2人、博士14人、硕士40人以及本科生2人，并与国内外知名学者长期合作。
 categories: [教师, 博后, 博士, 硕士, 本科, 国内外合作伙伴, 毕业生]
 nav: true
 nav_order: 2
@@ -348,6 +348,61 @@ profiles:
   - category: 硕士
     image: lichuanlong.jpg
     name: 李传龙
+    research: "-"
+    join_date: 2026
+  - category: 博士
+    image: zhangyan2026.jpg
+    name: 张琰
+    research: "-"
+    join_date: 2026
+  - category: 硕士
+    image: sunyachao.jpg
+    name: 孙亚超
+    research: "-"
+    join_date: 2026
+  - category: 博士
+    image: hejielong.jpg
+    name: 何结龙
+    research: "-"
+    join_date: 2026
+  - category: 硕士
+    image: yuanyuqin.jpg
+    name: 袁雨琴
+    research: "-"
+    join_date: 2026
+  - category: 博士
+    image: liuyuange.jpg
+    name: 刘原歌
+    research: "-"
+    join_date: 2026
+  - category: 硕士
+    image: chenzhuo.jpg
+    name: 陈卓
+    research: "-"
+    join_date: 2026
+  - category: 硕士
+    image: hezhibo.jpg
+    name: 何智博
+    research: "-"
+    join_date: 2026
+  - category: 硕士
+    image: taoshuo.jpg
+    name: 陶朔
+    research: "-"
+    join_date: 2026
+  - category: 硕士
+    image: gaozini.jpg
+    name: 高梓倪
+    research: "-"
+    join_date: 2026
+  - category: 硕士
+    image: wangyanpu.jpg
+    name: 汪言浦
+    research: "-"
+    join_date: 2026
+  - category: 硕士
+    image: zhuxiaodong.jpg
+    name: 朱晓冬
     research: "-"
     join_date: 2026
   - category: 毕业生
