@@ -3,7 +3,7 @@ page_id: profiles
 layout: page
 permalink: /people/
 title: 成员
-description: 实验室包括教授2人、副教授3人、青年教师2人、博后2人、博士9人、硕士26人以及本科生2人，并与国内外知名学者长期合作。
+description: 实验室包括教授2人、副教授3人、青年教师2人、博后2人、博士11人、硕士31人以及本科生2人，并与国内外知名学者长期合作。
 categories: [教师, 博后, 博士, 硕士, 本科, 国内外合作伙伴, 毕业生]
 nav: true
 nav_order: 2
@@ -308,6 +308,41 @@ profiles:
   - category: 硕士
     image: zhangzhuolin.jpg
     name: 张卓林
+    research: "-"
+    join_date: 2026
+  - category: 硕士
+    image: wangwenyu.jpg
+    name: 王闻玉
+    research: "-"
+    join_date: 2026
+  - category: 硕士
+    image: huangxiangshuai.jpg
+    name: 黄向帅
+    research: "-"
+    join_date: 2026
+  - category: 博士
+    image: qiyu.jpg
+    name: 齐瑜
+    research: "-"
+    join_date: 2026
+  - category: 硕士
+    image: fuke.jpg
+    name: 付钶
+    research: "-"
+    join_date: 2026
+  - category: 硕士
+    image: guowenping.jpg
+    name: 郭文萍
+    research: "-"
+    join_date: 2026
+  - category: 硕士
+    image: xingyongyuan.jpg
+    name: 邢永远
+    research: "-"
+    join_date: 2026
+  - category: 博士
+    image: luodongyue.jpg
+    name: 雒东月
     research: "-"
     join_date: 2026
   - category: 毕业生

@@ -3,7 +3,7 @@ page_id: profiles
 layout: page
 permalink: /people/
 title: People
-description: Our LION includes 2 Professors, 3 Associate Professors, 2 Lecturers, 2 Postdocs, 9 PhD students, 26 Master students and 2 undergraduate students. We also closely collaborate with international senior researchers.
+description: Our LION includes 2 Professors, 3 Associate Professors, 2 Lecturers, 2 Postdocs, 11 PhD students, 31 Master students and 2 undergraduate students. We also closely collaborate with international senior researchers.
 categories: [Faculty, Postdoc, PhD, Master, Undergraduate, Research Collaborator, Alumni]
 nav: true
 nav_order: 2
@@ -306,6 +306,41 @@ profiles:
   - category: Master
     image: zhangzhuolin.jpg
     name: Zhuolin Zhang
+    research: "-"
+    join_date: 2026
+  - category: Master
+    image: wangwenyu.jpg
+    name: Wenyu Wang
+    research: "-"
+    join_date: 2026
+  - category: Master
+    image: huangxiangshuai.jpg
+    name: Xiangshuai Huang
+    research: "-"
+    join_date: 2026
+  - category: PhD
+    image: qiyu.jpg
+    name: Yu Qi
+    research: "-"
+    join_date: 2026
+  - category: Master
+    image: fuke.jpg
+    name: Ke Fu
+    research: "-"
+    join_date: 2026
+  - category: Master
+    image: guowenping.jpg
+    name: Wenping Guo
+    research: "-"
+    join_date: 2026
+  - category: Master
+    image: xingyongyuan.jpg
+    name: Yongyuan Xing
+    research: "-"
+    join_date: 2026
+  - category: PhD
+    image: luodongyue.jpg
+    name: Dongyue Luo
     research: "-"
     join_date: 2026
   - category: Alumni
