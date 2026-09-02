@@ -3,7 +3,7 @@ page_id: profiles
 layout: page
 permalink: /people/
 title: 成员
-description: 实验室包括教授2人、副教授3人、青年教师2人、博后2人、博士15人、硕士43人以及本科生2人，并与国内外知名学者长期合作。
+description: 实验室包括教授2人、副教授3人、青年教师2人、博后2人、博士15人、硕士45人以及本科生2人，并与国内外知名学者长期合作。
 categories: [教师, 博后, 博士, 硕士, 本科, 国内外合作伙伴, 毕业生]
 nav: true
 nav_order: 2
@@ -423,6 +423,16 @@ profiles:
   - category: 硕士
     image: wujing.jpg
     name: 吴京
+    research: "-"
+    join_date: 2026
+  - category: 硕士
+    image: jiangsiyuan.jpg
+    name: 江思源
+    research: "-"
+    join_date: 2026
+  - category: 硕士
+    image: lixiang.jpg
+    name: 李想
     research: "-"
     join_date: 2026
   - category: 毕业生
