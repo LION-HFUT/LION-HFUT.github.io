@@ -3,7 +3,7 @@ page_id: profiles
 layout: page
 permalink: /people/
 title: People
-description: Our LION includes 2 Professors, 3 Associate Professors, 2 Lecturers, 2 Postdocs, 15 PhD students, 47 Master students and 2 undergraduate students. We also closely collaborate with international senior researchers.
+description: Our LION includes 2 Professors, 3 Associate Professors, 2 Lecturers, 2 Postdocs, 15 PhD students, 48 Master students and 2 undergraduate students. We also closely collaborate with international senior researchers.
 categories: [Faculty, Postdoc, PhD, Master, Undergraduate, Research Collaborator, Alumni]
 nav: true
 nav_order: 2
@@ -441,6 +441,11 @@ profiles:
   - category: Master
     image: handun.jpg
     name: Dun Han
+    research: "-"
+    join_date: 2026
+  - category: Master
+    image: liqingjiang.jpg
+    name: Qingjiang Li
     research: "-"
     join_date: 2026
   - category: Alumni
