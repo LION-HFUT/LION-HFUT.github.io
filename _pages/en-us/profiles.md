@@ -24,16 +24,16 @@ profiles:
     name: Tianrui Hui
     website: https://ryanhtr.github.io/
   - category: Faculty
+    image: huangshaofei.png
+    position: Associate Professor
+    name: Shaofei Huang
+    website: https://spyflying.github.io/
+  - category: Faculty
     image: yaxiong.jpg
     position: Associate Professor
     # research: 黄山学者学术骨干
     name: Yaxiong Wang
     website: https://scholar.google.com/citations?user=lDChiR4AAAAJ&hl=zh-CN
-  - category: Faculty
-    image: huangshaofei.png
-    position: Associate Professor
-    name: Shaofei Huang
-    website: https://spyflying.github.io/
   - category: Faculty
     image: nan.png
     name: Nan Pu

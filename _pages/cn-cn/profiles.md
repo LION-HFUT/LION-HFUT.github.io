@@ -24,16 +24,16 @@ profiles:
     name: 惠天瑞
     website: https://ryanhtr.github.io/
   - category: 教师
+    image: huangshaofei.png
+    position: 副教授
+    name: 黄少飞
+    website: https://spyflying.github.io/
+  - category: 教师
     image: yaxiong.jpg
     position: 副教授
     research: 黄山学者学术骨干
     name: 王亚雄
     website: https://scholar.google.com/citations?user=lDChiR4AAAAJ&hl=zh-CN
-  - category: 教师
-    image: huangshaofei.png
-    position: 副教授
-    name: 黄少飞
-    website: https://spyflying.github.io/
   - category: 教师
     image: nan.png
     position: 教授

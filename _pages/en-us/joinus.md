@@ -108,7 +108,7 @@ LION长期积极招募对原创科研有高度热情，有一定科研训练，�
 
 * 惠天瑞 Email: huitr@hfut.edu.cn Wechat: huitr2020
 
-* Shaofei Huang Email: nowherespyfly@gmail.com Wechat: huangshaofei2020
+* 黄少飞 Email: nowherespyfly@gmail.com Wechat: huangshaofei2020
 
 * 李文静 Email: wjli007@mail.ustc.edu.cn Wechat: 18206181546
 
