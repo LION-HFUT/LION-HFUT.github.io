@@ -24,7 +24,7 @@ profiles:
     name: Tianrui Hui
     website: https://ryanhtr.github.io/
   - category: Faculty
-    image: huangshaofei.png
+    image: huangshaofei.jpg
     position: Associate Professor
     name: Shaofei Huang
     website: https://spyflying.github.io/

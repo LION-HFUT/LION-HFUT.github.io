@@ -24,7 +24,7 @@ profiles:
     name: 惠天瑞
     website: https://ryanhtr.github.io/
   - category: 教师
-    image: huangshaofei.png
+    image: huangshaofei.jpg
     position: 副教授
     name: 黄少飞
     website: https://spyflying.github.io/
