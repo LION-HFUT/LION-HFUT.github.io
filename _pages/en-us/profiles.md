@@ -3,7 +3,7 @@ page_id: profiles
 layout: page
 permalink: /people/
 title: People
-description: Our LION includes 2 Professors, 3 Associate Professors, 2 Lecturers, 2 Postdocs, 15 PhD students, 49 Master students and 2 undergraduate students. We also closely collaborate with international senior researchers.
+description: Our LION includes 2 Professors, 4 Associate Professors, 2 Lecturers, 2 Postdocs, 15 PhD students, 49 Master students and 2 undergraduate students. We also closely collaborate with international senior researchers.
 categories: [Faculty, Postdoc, PhD, Master, Undergraduate, Research Collaborator, Alumni]
 nav: true
 nav_order: 2
@@ -29,6 +29,11 @@ profiles:
     # research: 黄山学者学术骨干
     name: Yaxiong Wang
     website: https://scholar.google.com/citations?user=lDChiR4AAAAJ&hl=zh-CN
+  - category: Faculty
+    image: huangshaofei.png
+    position: Associate Professor
+    name: Shaofei Huang
+    website: https://spyflying.github.io/
   - category: Faculty
     image: nan.png
     name: Nan Pu

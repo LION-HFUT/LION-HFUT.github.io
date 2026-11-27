@@ -3,7 +3,7 @@ page_id: profiles
 layout: page
 permalink: /people/
 title: 成员
-description: 实验室包括教授2人、副教授3人、青年教师2人、博后2人、博士15人、硕士49人以及本科生2人，并与国内外知名学者长期合作。
+description: 实验室包括教授2人、副教授4人、青年教师2人、博后2人、博士15人、硕士49人以及本科生2人，并与国内外知名学者长期合作。
 categories: [教师, 博后, 博士, 硕士, 本科, 国内外合作伙伴, 毕业生]
 nav: true
 nav_order: 2
@@ -29,6 +29,11 @@ profiles:
     research: 黄山学者学术骨干
     name: 王亚雄
     website: https://scholar.google.com/citations?user=lDChiR4AAAAJ&hl=zh-CN
+  - category: 教师
+    image: huangshaofei.png
+    position: 副教授
+    name: 黄少飞
+    website: https://spyflying.github.io/
   - category: 教师
     image: nan.png
     position: 教授
